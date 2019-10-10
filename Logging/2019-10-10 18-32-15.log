@@ -1,0 +1,1224 @@
+2019-10-10 18:32:15,606 INFO 14343815 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 64 
+Script Starting at 2019-10-10 18:32:15.606194
+
+2019-10-10 18:32:22,001 INFO 14350210 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 77 
+Iterating through layers in Feature Layer "service_d5a26ba7fee8434dafe9403fd67ad059"
+
+2019-10-10 18:32:24,863 INFO 14353073 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 96 
+Time: 2019-10-10 18:32:24.863559
+
+2019-10-10 18:32:24,864 INFO 14353074 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 97 
+Currently looping through feature attachments in layer 1 of 1: storing in folder named "0-surveyPoint"
+
+2019-10-10 18:32:24,868 INFO 14353078 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 98 
+There are 60 features to iterate in this layer
+
+2019-10-10 18:32:25,373 INFO 14353582 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 0.288426MB
+
+2019-10-10 18:32:26,882 INFO 14355091 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\5f780bb1-dc37-4fc0-8ba7-0d518f961ef0\15663871483551841638118.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\5f780bb1-dc37-4fc0-8ba7-0d518f961ef0\1-15663871483551841638118.jpg
+
+2019-10-10 18:32:27,152 INFO 14355361 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 3.798316MB
+
+2019-10-10 18:32:29,377 INFO 14357587 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\8851753f-e228-40a4-8766-81873775dfa2\389989CF-7C6A-4A55-BE0A-DAA6B01B283D.jpeg being renamed as ../ScriptDownloads\\0-surveyPoint\\8851753f-e228-40a4-8766-81873775dfa2\2-389989CF-7C6A-4A55-BE0A-DAA6B01B283D.jpeg
+
+2019-10-10 18:32:29,593 INFO 14357802 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 5.969632MB
+
+2019-10-10 18:32:32,145 INFO 14360355 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\f309c76a-4f65-4bc7-80d9-a9513e7be7cc\CDCC7C75-8FA9-40E1-980B-BC7ADB4FF552.jpeg being renamed as ../ScriptDownloads\\0-surveyPoint\\f309c76a-4f65-4bc7-80d9-a9513e7be7cc\3-CDCC7C75-8FA9-40E1-980B-BC7ADB4FF552.jpeg
+
+2019-10-10 18:32:32,461 INFO 14360671 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 5.716125MB
+
+2019-10-10 18:32:35,233 INFO 14363443 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\c4d3facd-2854-4350-8ee2-10c7f4721ade\C134FE5F-C400-4E95-BC26-8C932A394B07.jpeg being renamed as ../ScriptDownloads\\0-surveyPoint\\c4d3facd-2854-4350-8ee2-10c7f4721ade\4-C134FE5F-C400-4E95-BC26-8C932A394B07.jpeg
+
+2019-10-10 18:32:35,642 INFO 14363852 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 0.545143MB
+
+2019-10-10 18:32:36,565 INFO 14364775 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\882449d6-5b30-4344-8d51-df1ca932135e\1566917171038-778181784.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\882449d6-5b30-4344-8d51-df1ca932135e\5-1566917171038-778181784.jpg
+
+2019-10-10 18:32:36,781 INFO 14364991 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 0.251735MB
+
+2019-10-10 18:32:37,730 INFO 14365940 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\3dea9df1-8bb9-47e5-838c-ceab67979a1f\15670735120811253738632.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\3dea9df1-8bb9-47e5-838c-ceab67979a1f\6-15670735120811253738632.jpg
+
+2019-10-10 18:32:38,075 INFO 14366284 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 0.277159MB
+
+2019-10-10 18:32:39,142 INFO 14367352 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\018b6dec-b3ed-4282-88c8-40751b6e1640\15670737967121013087840.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\018b6dec-b3ed-4282-88c8-40751b6e1640\7-15670737967121013087840.jpg
+
+2019-10-10 18:32:39,435 INFO 14367645 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 0.252639MB
+
+2019-10-10 18:32:40,073 INFO 14368283 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\e40e40a2-5b95-49e7-82bf-87ba9f56dd4c\1567074463471-1840186848.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\e40e40a2-5b95-49e7-82bf-87ba9f56dd4c\8-1567074463471-1840186848.jpg
+
+2019-10-10 18:32:40,304 INFO 14368514 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 2.659148MB
+
+2019-10-10 18:32:42,930 INFO 14371140 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\f900cdad-ba7d-413d-8210-55fd3e309ca9\image.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\f900cdad-ba7d-413d-8210-55fd3e309ca9\9-image.jpg
+
+2019-10-10 18:32:43,201 INFO 14371411 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 4.714896MB
+
+2019-10-10 18:32:45,794 INFO 14374004 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\44dd4ded-9ae7-465b-8ec3-7765ff7a5295\9F5023F4-5323-4A02-A501-D022DBC48DE1.jpeg being renamed as ../ScriptDownloads\\0-surveyPoint\\44dd4ded-9ae7-465b-8ec3-7765ff7a5295\10-9F5023F4-5323-4A02-A501-D022DBC48DE1.jpeg
+
+2019-10-10 18:32:46,017 INFO 14374227 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 3.78139MB
+
+2019-10-10 18:32:49,265 INFO 14377475 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\be88d8c8-159f-41b4-822a-279a321b3689\B06C217F-12CB-447C-9B80-63AEB96471F9.jpeg being renamed as ../ScriptDownloads\\0-surveyPoint\\be88d8c8-159f-41b4-822a-279a321b3689\11-B06C217F-12CB-447C-9B80-63AEB96471F9.jpeg
+
+2019-10-10 18:32:49,485 INFO 14377695 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 2.309677MB
+
+2019-10-10 18:32:50,791 INFO 14379001 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\63af8b96-8079-4c0a-8cbf-ad3a092e6280\image.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\63af8b96-8079-4c0a-8cbf-ad3a092e6280\12-image.jpg
+
+2019-10-10 18:32:51,028 INFO 14379237 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 3.325675MB
+
+2019-10-10 18:32:53,267 INFO 14381476 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\35a6c6f3-c1fb-494a-83ba-488ab5851ad9\image.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\35a6c6f3-c1fb-494a-83ba-488ab5851ad9\13-image.jpg
+
+2019-10-10 18:32:53,498 INFO 14381708 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 3.099286MB
+
+2019-10-10 18:32:55,947 INFO 14384156 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\f6add64c-685a-400d-84c2-7c8823495072\image.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\f6add64c-685a-400d-84c2-7c8823495072\14-image.jpg
+
+2019-10-10 18:32:56,989 INFO 14385199 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 6.365755MB
+
+2019-10-10 18:32:58,958 INFO 14387167 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\eb535cb7-8ae4-4434-824f-bc077ec1552c\15675904521585512437494732596818.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\eb535cb7-8ae4-4434-824f-bc077ec1552c\15-15675904521585512437494732596818.jpg
+
+2019-10-10 18:32:59,196 INFO 14387406 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 2.710273MB
+
+2019-10-10 18:33:01,599 INFO 14389808 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\b48966bb-4879-4999-8faa-edc609ede2bc\15675957963361719209467.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\b48966bb-4879-4999-8faa-edc609ede2bc\16-15675957963361719209467.jpg
+
+2019-10-10 18:33:01,832 INFO 14390042 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 0.208304MB
+
+2019-10-10 18:33:02,838 INFO 14391048 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\2f99a48e-85f6-4821-8685-b3e9784dc6de\1567595964110547868615.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\2f99a48e-85f6-4821-8685-b3e9784dc6de\17-1567595964110547868615.jpg
+
+2019-10-10 18:33:03,120 INFO 14391329 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 8.152654MB
+
+2019-10-10 18:33:12,245 INFO 14400455 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\fc09708c-70c2-4666-8dc1-e982988db54b\15675959091546381191343432412648.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\fc09708c-70c2-4666-8dc1-e982988db54b\18-15675959091546381191343432412648.jpg
+
+2019-10-10 18:33:12,715 INFO 14400924 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 2.024089MB
+
+2019-10-10 18:33:14,882 INFO 14403091 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\f2c8bcd6-e08f-4430-879a-b3abdf1c9ff0\15675967569257117009545662753637.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\f2c8bcd6-e08f-4430-879a-b3abdf1c9ff0\19-15675967569257117009545662753637.jpg
+
+2019-10-10 18:33:15,101 INFO 14403310 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 4.970115MB
+
+2019-10-10 18:33:17,186 INFO 14405395 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\c98e89c6-3310-4494-8f68-628b3af7ff6d\1567604871729573560134884470007.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\c98e89c6-3310-4494-8f68-628b3af7ff6d\20-1567604871729573560134884470007.jpg
+
+2019-10-10 18:33:17,443 INFO 14405652 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 1.92663MB
+
+2019-10-10 18:33:19,024 INFO 14407234 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\ad6b6e0d-263f-4eab-8cca-c2cfc490a41c\1567604903313-248784947.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\ad6b6e0d-263f-4eab-8cca-c2cfc490a41c\21-1567604903313-248784947.jpg
+
+2019-10-10 18:33:19,274 INFO 14407484 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 1.930575MB
+
+2019-10-10 18:33:20,577 INFO 14408787 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\3c1fb24e-9244-46f0-85a6-01779d4d0635\1567605253542-254695870.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\3c1fb24e-9244-46f0-85a6-01779d4d0635\22-1567605253542-254695870.jpg
+
+2019-10-10 18:33:20,798 INFO 14409008 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 5.788908MB
+
+2019-10-10 18:33:22,948 INFO 14411158 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\d99670e4-dbc5-43bd-894b-49b60b845412\15676077000083489751647921184582.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\d99670e4-dbc5-43bd-894b-49b60b845412\23-15676077000083489751647921184582.jpg
+
+2019-10-10 18:33:23,459 INFO 14411668 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 2.191863MB
+
+2019-10-10 18:33:25,605 INFO 14413814 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\8078fdea-0daf-46fe-8845-af8a68da75f6\32C75531-4EDA-4D06-A480-BA9A3AC1EE16.jpeg being renamed as ../ScriptDownloads\\0-surveyPoint\\8078fdea-0daf-46fe-8845-af8a68da75f6\24-32C75531-4EDA-4D06-A480-BA9A3AC1EE16.jpeg
+
+2019-10-10 18:33:28,316 INFO 14416526 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 5.764338MB
+
+2019-10-10 18:33:31,123 INFO 14419333 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\acf6c9ec-2793-4d04-801e-ca962947f19d\15676757983253103429169208362161.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\acf6c9ec-2793-4d04-801e-ca962947f19d\25-15676757983253103429169208362161.jpg
+
+2019-10-10 18:33:31,342 INFO 14419551 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 7.640703MB
+
+2019-10-10 18:33:34,377 INFO 14422587 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\6c33da1c-a338-4728-8fa1-23e1bfe02446\20190905_093049.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\6c33da1c-a338-4728-8fa1-23e1bfe02446\26-20190905_093049.jpg
+
+2019-10-10 18:33:34,626 INFO 14422836 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 5.563078MB
+
+2019-10-10 18:33:36,422 INFO 14424631 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\6a9bb42b-5d47-4dcd-898e-5dfac4f1fc55\image.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\6a9bb42b-5d47-4dcd-898e-5dfac4f1fc55\27-image.jpg
+
+2019-10-10 18:33:36,660 INFO 14424870 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 3.887831MB
+
+2019-10-10 18:33:38,934 INFO 14427143 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\8e9ed414-ef92-4851-8467-516c7d572a43\image.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\8e9ed414-ef92-4851-8467-516c7d572a43\28-image.jpg
+
+2019-10-10 18:33:39,282 INFO 14427491 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 5.076398MB
+
+2019-10-10 18:33:40,895 INFO 14429105 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\5bbd6b5e-899a-46b5-8d29-c98f9f7928b3\image.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\5bbd6b5e-899a-46b5-8d29-c98f9f7928b3\29-image.jpg
+
+2019-10-10 18:33:41,136 INFO 14429346 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 5.563127MB
+
+2019-10-10 18:33:44,861 INFO 14433071 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\ff3d9061-0010-45d2-8e8b-05fedd7e3a45\15676759741109131122420007111107.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\ff3d9061-0010-45d2-8e8b-05fedd7e3a45\30-15676759741109131122420007111107.jpg
+
+2019-10-10 18:33:45,119 INFO 14433328 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 5.322038MB
+
+2019-10-10 18:33:50,020 INFO 14438230 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\d3aeca30-d9f4-48b0-80a8-687f110acd1d\2019-09-05 09.33.39.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\d3aeca30-d9f4-48b0-80a8-687f110acd1d\31-2019-09-05 09.33.39.jpg
+
+2019-10-10 18:33:50,244 INFO 14438453 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 0.976371MB
+
+2019-10-10 18:33:52,598 INFO 14440808 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\8817b760-a1db-40dd-8a45-addfc479dc73\image.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\8817b760-a1db-40dd-8a45-addfc479dc73\32-image.jpg
+
+2019-10-10 18:33:53,062 INFO 14441271 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 5.35359MB
+
+2019-10-10 18:33:56,886 INFO 14445096 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\036c8c11-10f0-40b7-87d3-a6a88096f9af\15676766556524138064104028640527.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\036c8c11-10f0-40b7-87d3-a6a88096f9af\33-15676766556524138064104028640527.jpg
+
+2019-10-10 18:33:57,460 INFO 14445670 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 3.691578MB
+
+2019-10-10 18:33:59,869 INFO 14448078 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\1242a1ea-7cd1-4362-85a0-172ae07135bf\image.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\1242a1ea-7cd1-4362-85a0-172ae07135bf\34-image.jpg
+
+2019-10-10 18:34:00,413 INFO 14448622 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 3.352134MB
+
+2019-10-10 18:34:02,537 INFO 14450747 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\1f857d57-66c7-4830-8336-77b49569014e\image.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\1f857d57-66c7-4830-8336-77b49569014e\35-image.jpg
+
+2019-10-10 18:34:02,753 INFO 14450963 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 3.383948MB
+
+2019-10-10 18:34:05,186 INFO 14453396 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\27d7b5fa-9d97-417a-88cb-e76197757a51\image.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\27d7b5fa-9d97-417a-88cb-e76197757a51\36-image.jpg
+
+2019-10-10 18:34:05,558 INFO 14453767 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 3.528537MB
+
+2019-10-10 18:34:07,750 INFO 14455960 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\65721a58-efa2-4c83-8c1d-c679b0a93a88\image.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\65721a58-efa2-4c83-8c1d-c679b0a93a88\37-image.jpg
+
+2019-10-10 18:34:08,203 INFO 14456412 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 8.226203MB
+
+2019-10-10 18:34:10,751 INFO 14458961 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\56fd9801-af78-45e9-80db-d7f2a70e7011\15676773516057671787330620953743.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\56fd9801-af78-45e9-80db-d7f2a70e7011\38-15676773516057671787330620953743.jpg
+
+2019-10-10 18:34:10,985 INFO 14459195 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 3.508508MB
+
+2019-10-10 18:34:13,456 INFO 14461665 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\3640e496-8764-4d0e-8c0e-894f1a9b72bd\image.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\3640e496-8764-4d0e-8c0e-894f1a9b72bd\39-image.jpg
+
+2019-10-10 18:34:13,715 INFO 14461924 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 3.037083MB
+
+2019-10-10 18:34:16,318 INFO 14464528 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\5af7742a-0497-4692-8f29-fe40e04b5c1c\image.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\5af7742a-0497-4692-8f29-fe40e04b5c1c\40-image.jpg
+
+2019-10-10 18:34:16,792 INFO 14465002 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 4.138619MB
+
+2019-10-10 18:34:19,121 INFO 14467331 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\951e4c88-6ef8-472b-8167-ab5578b7f48e\1567678876283103948365.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\951e4c88-6ef8-472b-8167-ab5578b7f48e\41-1567678876283103948365.jpg
+
+2019-10-10 18:34:19,492 INFO 14467702 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 0.478899MB
+
+2019-10-10 18:34:21,066 INFO 14469275 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\5192e52f-891e-4019-8db1-e93d43228cc1\overview_image_20190905122442.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\5192e52f-891e-4019-8db1-e93d43228cc1\42-overview_image_20190905122442.jpg
+
+2019-10-10 18:34:21,292 INFO 14469502 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 5.861329MB
+
+2019-10-10 18:34:24,529 INFO 14472739 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\13f5ff15-b479-40e9-8c26-1e1139c30911\image.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\13f5ff15-b479-40e9-8c26-1e1139c30911\43-image.jpg
+
+2019-10-10 18:34:24,738 INFO 14472948 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 3.521831MB
+
+2019-10-10 18:34:26,774 INFO 14474983 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\5407f237-b80c-45dc-80c9-e189a614c914\C7302A4A-EA4F-4250-9392-8FE12FA909B1.jpeg being renamed as ../ScriptDownloads\\0-surveyPoint\\5407f237-b80c-45dc-80c9-e189a614c914\44-C7302A4A-EA4F-4250-9392-8FE12FA909B1.jpeg
+
+2019-10-10 18:34:27,305 INFO 14475514 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 124 
+The size of the current attachment being downloaded is 6.283525MB
+
+2019-10-10 18:34:32,256 INFO 14480466 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-surveyPoint\\56726203-9a38-4fab-87c6-d7f71fedab64\IMG_20190923_082305.jpg being renamed as ../ScriptDownloads\\0-surveyPoint\\56726203-9a38-4fab-87c6-d7f71fedab64\45-IMG_20190923_082305.jpg
+
+2019-10-10 18:34:32,257 INFO 14480467 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 153 
+15 of these features do not contain attachments
+
+2019-10-10 18:34:32,260 INFO 14480470 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 158 
+Summary: 45 new layer files have been downloaded totalling 167.418081MB in size
+
+2019-10-10 18:34:32,263 INFO 14480473 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> <module> 159 
+Summary: 0 layer attachments already existed so were not downloaded again
+
+2019-10-10 18:37:39,394 INFO 14667603 
+<ipython-input-48-0902de9ff2f1> <ipython-input-48-0902de9ff2f1> <module> 21 
+Time: 2019-10-10 18:37:39.394350
+
+2019-10-10 18:37:39,396 INFO 14667605 
+<ipython-input-48-0902de9ff2f1> <ipython-input-48-0902de9ff2f1> <module> 22 
+Currently looping through feature attachments in layer 1 of 1: storing in folder named "0-loop"
+
+2019-10-10 18:37:39,399 INFO 14667608 
+<ipython-input-48-0902de9ff2f1> <ipython-input-48-0902de9ff2f1> <module> 23 
+There are 198 features to iterate in this layer
+
+2019-10-10 18:37:40,673 INFO 14668883 
+<ipython-input-48-0902de9ff2f1> <ipython-input-48-0902de9ff2f1> <module> 48 
+The size of the current attachment being downloaded is 6.462322MB
+
+2019-10-10 18:37:44,111 INFO 14672320 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\065157e8-1c1b-47f6-80e9-452bfa5b2d81\FF955453-F867-41E5-88DC-FB7D615E2A3C.jpeg being renamed as ../ScriptDownloads\\0-loop\\065157e8-1c1b-47f6-80e9-452bfa5b2d81\1-FF955453-F867-41E5-88DC-FB7D615E2A3C.jpeg
+
+2019-10-10 18:37:44,370 INFO 14672580 
+<ipython-input-48-0902de9ff2f1> <ipython-input-48-0902de9ff2f1> <module> 48 
+The size of the current attachment being downloaded is 6.242231MB
+
+2019-10-10 18:37:47,127 INFO 14675336 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\59fed5ef-c944-48cd-86bb-f92572626bf6\53CC696A-D046-4F9C-821B-A317855A820A.jpeg being renamed as ../ScriptDownloads\\0-loop\\59fed5ef-c944-48cd-86bb-f92572626bf6\2-53CC696A-D046-4F9C-821B-A317855A820A.jpeg
+
+2019-10-10 18:37:47,371 INFO 14675580 
+<ipython-input-48-0902de9ff2f1> <ipython-input-48-0902de9ff2f1> <module> 48 
+The size of the current attachment being downloaded is 0.510574MB
+
+2019-10-10 18:37:48,746 INFO 14676955 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\9cab06e2-1016-48cd-8117-857b52a350e7\1566917200444-399006905.jpg being renamed as ../ScriptDownloads\\0-loop\\9cab06e2-1016-48cd-8117-857b52a350e7\3-1566917200444-399006905.jpg
+
+2019-10-10 18:37:49,070 INFO 14677279 
+<ipython-input-48-0902de9ff2f1> <ipython-input-48-0902de9ff2f1> <module> 48 
+The size of the current attachment being downloaded is 0.550717MB
+
+2019-10-10 18:44:16,827 INFO 15065037 
+<ipython-input-49-db0d2ffa77fa> <ipython-input-49-db0d2ffa77fa> <module> 20 
+Time: 2019-10-10 18:44:16.827617
+
+2019-10-10 18:44:16,830 INFO 15065040 
+<ipython-input-49-db0d2ffa77fa> <ipython-input-49-db0d2ffa77fa> <module> 21 
+Currently looping through feature attachments in layer 1 of 1: storing in folder named "0-loop"
+
+2019-10-10 18:44:16,832 INFO 15065042 
+<ipython-input-49-db0d2ffa77fa> <ipython-input-49-db0d2ffa77fa> <module> 22 
+There are 198 features to iterate in this layer
+
+2019-10-10 18:44:18,551 INFO 15066761 
+<ipython-input-49-db0d2ffa77fa> <ipython-input-49-db0d2ffa77fa> <module> 54 
+File ../ScriptDownloads\\0-loop\\065157e8-1c1b-47f6-80e9-452bfa5b2d81\1-FF955453-F867-41E5-88DC-FB7D615E2A3C.jpeg already exists. Not downloading again!
+
+2019-10-10 18:44:18,751 INFO 15066960 
+<ipython-input-49-db0d2ffa77fa> <ipython-input-49-db0d2ffa77fa> <module> 54 
+File ../ScriptDownloads\\0-loop\\59fed5ef-c944-48cd-86bb-f92572626bf6\2-53CC696A-D046-4F9C-821B-A317855A820A.jpeg already exists. Not downloading again!
+
+2019-10-10 18:44:18,943 INFO 15067153 
+<ipython-input-49-db0d2ffa77fa> <ipython-input-49-db0d2ffa77fa> <module> 54 
+File ../ScriptDownloads\\0-loop\\9cab06e2-1016-48cd-8117-857b52a350e7\3-1566917200444-399006905.jpg already exists. Not downloading again!
+
+2019-10-10 18:44:19,165 INFO 15067375 
+<ipython-input-49-db0d2ffa77fa> <ipython-input-49-db0d2ffa77fa> <module> 47 
+The size of the current attachment being downloaded is 0.550717MB
+
+2019-10-10 18:48:33,214 INFO 15321424 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 26 
+Time: 2019-10-10 18:48:33.214961
+
+2019-10-10 18:48:33,219 INFO 15321429 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 27 
+Currently looping through feature attachments in layer 1 of 1: storing in folder named "0-loop"
+
+2019-10-10 18:48:33,223 INFO 15321433 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 28 
+There are 198 features to iterate in this layer
+
+2019-10-10 18:48:35,820 INFO 15324030 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 60 
+File ../ScriptDownloads\\0-loop\\065157e8-1c1b-47f6-80e9-452bfa5b2d81\1-FF955453-F867-41E5-88DC-FB7D615E2A3C.jpeg already exists. Not downloading again!
+
+2019-10-10 18:48:36,022 INFO 15324232 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 60 
+File ../ScriptDownloads\\0-loop\\59fed5ef-c944-48cd-86bb-f92572626bf6\2-53CC696A-D046-4F9C-821B-A317855A820A.jpeg already exists. Not downloading again!
+
+2019-10-10 18:48:36,297 INFO 15324506 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 60 
+File ../ScriptDownloads\\0-loop\\9cab06e2-1016-48cd-8117-857b52a350e7\3-1566917200444-399006905.jpg already exists. Not downloading again!
+
+2019-10-10 18:48:36,510 INFO 15324720 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.550717MB
+
+2019-10-10 18:48:37,528 INFO 15325738 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\33793d1f-af1b-4ddd-866c-d574c1503290\1566917215666-1409039817.jpg being renamed as ../ScriptDownloads\\0-loop\\33793d1f-af1b-4ddd-866c-d574c1503290\4-1566917215666-1409039817.jpg
+
+2019-10-10 18:48:37,825 INFO 15326035 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.431504MB
+
+2019-10-10 18:48:38,950 INFO 15327160 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\45dd9757-7c37-45da-828c-54760d31cce7\15669172276231469317947.jpg being renamed as ../ScriptDownloads\\0-loop\\45dd9757-7c37-45da-828c-54760d31cce7\5-15669172276231469317947.jpg
+
+2019-10-10 18:48:39,177 INFO 15327387 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.263933MB
+
+2019-10-10 18:48:40,203 INFO 15328412 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\2767789c-1189-4596-87dc-69229cdfde55\1567073522635-1182984439.jpg being renamed as ../ScriptDownloads\\0-loop\\2767789c-1189-4596-87dc-69229cdfde55\6-1567073522635-1182984439.jpg
+
+2019-10-10 18:48:40,423 INFO 15328632 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.267614MB
+
+2019-10-10 18:48:41,588 INFO 15329798 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\fcee5a42-0d38-4c30-812d-1441a12bc6fa\1567073533195106721579.jpg being renamed as ../ScriptDownloads\\0-loop\\fcee5a42-0d38-4c30-812d-1441a12bc6fa\7-1567073533195106721579.jpg
+
+2019-10-10 18:48:41,802 INFO 15330011 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.266877MB
+
+2019-10-10 18:48:42,820 INFO 15331030 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\eb7b7039-73f6-470f-816c-0eb37b14df93\1567073546869613051358.jpg being renamed as ../ScriptDownloads\\0-loop\\eb7b7039-73f6-470f-816c-0eb37b14df93\8-1567073546869613051358.jpg
+
+2019-10-10 18:48:43,057 INFO 15331266 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.270606MB
+
+2019-10-10 18:48:44,113 INFO 15332322 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\e543f5bf-62bb-415f-8505-18852022a90f\156707355628537250878.jpg being renamed as ../ScriptDownloads\\0-loop\\e543f5bf-62bb-415f-8505-18852022a90f\9-156707355628537250878.jpg
+
+2019-10-10 18:48:44,350 INFO 15332560 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.271843MB
+
+2019-10-10 18:48:45,348 INFO 15333557 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\4b01450d-3aee-4297-8110-c7c138174527\15670735662631712792446.jpg being renamed as ../ScriptDownloads\\0-loop\\4b01450d-3aee-4297-8110-c7c138174527\10-15670735662631712792446.jpg
+
+2019-10-10 18:48:45,632 INFO 15333841 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.258221MB
+
+2019-10-10 18:48:46,563 INFO 15334773 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\32efddb1-faa2-4c8e-84b3-5a594ec622a1\15670735747131809977477.jpg being renamed as ../ScriptDownloads\\0-loop\\32efddb1-faa2-4c8e-84b3-5a594ec622a1\11-15670735747131809977477.jpg
+
+2019-10-10 18:48:46,812 INFO 15335022 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.25877MB
+
+2019-10-10 18:48:47,822 INFO 15336031 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\5e16a8f1-737b-4216-8a44-476e77d84f3d\1567073589929-1706338533.jpg being renamed as ../ScriptDownloads\\0-loop\\5e16a8f1-737b-4216-8a44-476e77d84f3d\12-1567073589929-1706338533.jpg
+
+2019-10-10 18:48:48,064 INFO 15336273 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.262305MB
+
+2019-10-10 18:48:49,326 INFO 15337535 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\0ca9d403-915a-48d2-8557-a6d10b5b10de\1567073598908-1095554148.jpg being renamed as ../ScriptDownloads\\0-loop\\0ca9d403-915a-48d2-8557-a6d10b5b10de\13-1567073598908-1095554148.jpg
+
+2019-10-10 18:48:49,594 INFO 15337803 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.263926MB
+
+2019-10-10 18:48:50,649 INFO 15338859 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\9b88c93b-48b2-4bfb-8ff1-bb59fe4fa992\1567073608173-1828729471.jpg being renamed as ../ScriptDownloads\\0-loop\\9b88c93b-48b2-4bfb-8ff1-bb59fe4fa992\14-1567073608173-1828729471.jpg
+
+2019-10-10 18:48:50,885 INFO 15339095 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.248659MB
+
+2019-10-10 18:48:51,484 INFO 15339693 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\35c4bcc0-ceb3-4e04-8f2f-1648383c2c53\1567073616468628931660.jpg being renamed as ../ScriptDownloads\\0-loop\\35c4bcc0-ceb3-4e04-8f2f-1648383c2c53\15-1567073616468628931660.jpg
+
+2019-10-10 18:48:51,883 INFO 15340093 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.264076MB
+
+2019-10-10 18:48:52,628 INFO 15340838 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\dea3b64c-2d20-4bfb-8e39-72bbaa03c052\1567073625313-2069597812.jpg being renamed as ../ScriptDownloads\\0-loop\\dea3b64c-2d20-4bfb-8e39-72bbaa03c052\16-1567073625313-2069597812.jpg
+
+2019-10-10 18:48:52,922 INFO 15341132 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.268973MB
+
+2019-10-10 18:48:53,497 INFO 15341706 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\fcf6bed9-d948-4187-8e6a-ae772e19dfd2\15670736324011630415135.jpg being renamed as ../ScriptDownloads\\0-loop\\fcf6bed9-d948-4187-8e6a-ae772e19dfd2\17-15670736324011630415135.jpg
+
+2019-10-10 18:48:53,831 INFO 15342040 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.26688MB
+
+2019-10-10 18:48:54,868 INFO 15343077 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\3118aafb-e234-43ac-8b05-a6f083459994\15670736419311332952025.jpg being renamed as ../ScriptDownloads\\0-loop\\3118aafb-e234-43ac-8b05-a6f083459994\18-15670736419311332952025.jpg
+
+2019-10-10 18:48:55,134 INFO 15343344 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.266226MB
+
+2019-10-10 18:48:56,041 INFO 15344251 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\3099048f-facb-44ec-8199-b457df75ad88\1567073649733-11002315.jpg being renamed as ../ScriptDownloads\\0-loop\\3099048f-facb-44ec-8199-b457df75ad88\19-1567073649733-11002315.jpg
+
+2019-10-10 18:48:56,292 INFO 15344501 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.268978MB
+
+2019-10-10 18:48:56,836 INFO 15345046 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\48de01ee-09d1-4259-8a1f-9d76988364d6\1567073658136393970624.jpg being renamed as ../ScriptDownloads\\0-loop\\48de01ee-09d1-4259-8a1f-9d76988364d6\20-1567073658136393970624.jpg
+
+2019-10-10 18:48:57,510 INFO 15345719 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.431511MB
+
+2019-10-10 18:48:59,484 INFO 15347694 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\b5281967-4001-4a10-8e66-e989a96d51fa\image.jpg being renamed as ../ScriptDownloads\\0-loop\\b5281967-4001-4a10-8e66-e989a96d51fa\21-image.jpg
+
+2019-10-10 18:48:59,691 INFO 15347901 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.702898MB
+
+2019-10-10 18:49:01,514 INFO 15349724 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\c28d38b6-ca33-40bb-8f98-41994101e97e\image.jpg being renamed as ../ScriptDownloads\\0-loop\\c28d38b6-ca33-40bb-8f98-41994101e97e\22-image.jpg
+
+2019-10-10 18:49:02,166 INFO 15350376 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.563262MB
+
+2019-10-10 18:49:04,483 INFO 15352692 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\a40b8a70-b06a-4cee-84c9-3e351cf959d3\image.jpg being renamed as ../ScriptDownloads\\0-loop\\a40b8a70-b06a-4cee-84c9-3e351cf959d3\23-image.jpg
+
+2019-10-10 18:49:04,960 INFO 15353170 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.589096MB
+
+2019-10-10 18:49:06,566 INFO 15354775 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\a1c02073-3d1d-4aec-8b35-87c6d9e34e46\image.jpg being renamed as ../ScriptDownloads\\0-loop\\a1c02073-3d1d-4aec-8b35-87c6d9e34e46\24-image.jpg
+
+2019-10-10 18:49:06,818 INFO 15355027 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.77272MB
+
+2019-10-10 18:49:08,867 INFO 15357077 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\c18c7cd6-a084-49d9-888b-16645b257693\image.jpg being renamed as ../ScriptDownloads\\0-loop\\c18c7cd6-a084-49d9-888b-16645b257693\25-image.jpg
+
+2019-10-10 18:49:09,072 INFO 15357282 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.3572MB
+
+2019-10-10 18:49:10,065 INFO 15358275 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\b04063e5-2478-4886-800d-dc533f57c58b\image.jpg being renamed as ../ScriptDownloads\\0-loop\\b04063e5-2478-4886-800d-dc533f57c58b\26-image.jpg
+
+2019-10-10 18:49:10,274 INFO 15358484 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 3.700974MB
+
+2019-10-10 18:49:12,357 INFO 15360567 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\ac660c40-9385-4b76-8de4-f473eeaab5f7\1567511084619747621015.jpg being renamed as ../ScriptDownloads\\0-loop\\ac660c40-9385-4b76-8de4-f473eeaab5f7\27-1567511084619747621015.jpg
+
+2019-10-10 18:49:12,569 INFO 15360778 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 3.556002MB
+
+2019-10-10 18:49:14,191 INFO 15362400 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\b7d49594-4970-4474-8267-e94291de0daa\1567511140760-675832870.jpg being renamed as ../ScriptDownloads\\0-loop\\b7d49594-4970-4474-8267-e94291de0daa\28-1567511140760-675832870.jpg
+
+2019-10-10 18:49:14,433 INFO 15362642 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 3.193912MB
+
+2019-10-10 18:49:16,071 INFO 15364281 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\d4719d4e-66a4-4905-8447-77be93653c83\1567511153825-724248658.jpg being renamed as ../ScriptDownloads\\0-loop\\d4719d4e-66a4-4905-8447-77be93653c83\29-1567511153825-724248658.jpg
+
+2019-10-10 18:49:16,341 INFO 15364550 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 3.235318MB
+
+2019-10-10 18:49:18,668 INFO 15366878 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\f45d0fcd-baeb-4b61-8541-76cc3a513824\1567511174255-1767102837.jpg being renamed as ../ScriptDownloads\\0-loop\\f45d0fcd-baeb-4b61-8541-76cc3a513824\30-1567511174255-1767102837.jpg
+
+2019-10-10 18:49:18,900 INFO 15367110 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 3.06169MB
+
+2019-10-10 18:49:20,221 INFO 15368431 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\9dddbab5-cca0-4f13-8d55-d1a6c074c2e2\1567511189523575903278.jpg being renamed as ../ScriptDownloads\\0-loop\\9dddbab5-cca0-4f13-8d55-d1a6c074c2e2\31-1567511189523575903278.jpg
+
+2019-10-10 18:49:20,522 INFO 15368731 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 3.346112MB
+
+2019-10-10 18:49:22,480 INFO 15370690 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\088c90ab-3104-430e-8270-f1fff7a80ff3\15675112037341992042327.jpg being renamed as ../ScriptDownloads\\0-loop\\088c90ab-3104-430e-8270-f1fff7a80ff3\32-15675112037341992042327.jpg
+
+2019-10-10 18:49:22,778 INFO 15370988 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 3.782912MB
+
+2019-10-10 18:49:24,761 INFO 15372971 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\70933835-937b-46e1-8269-78a520cc5f7e\1567511217930-1323699193.jpg being renamed as ../ScriptDownloads\\0-loop\\70933835-937b-46e1-8269-78a520cc5f7e\33-1567511217930-1323699193.jpg
+
+2019-10-10 18:49:25,094 INFO 15373304 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 3.526736MB
+
+2019-10-10 18:49:26,523 INFO 15374732 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\c1ca1412-b186-4971-8752-fc46b8de568d\1567511244339-613946647.jpg being renamed as ../ScriptDownloads\\0-loop\\c1ca1412-b186-4971-8752-fc46b8de568d\34-1567511244339-613946647.jpg
+
+2019-10-10 18:49:27,056 INFO 15375266 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.103585MB
+
+2019-10-10 18:49:28,183 INFO 15376392 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\973fd04f-74ee-4f60-84e0-9faee520454a\1567595819899-97900976.jpg being renamed as ../ScriptDownloads\\0-loop\\973fd04f-74ee-4f60-84e0-9faee520454a\35-1567595819899-97900976.jpg
+
+2019-10-10 18:49:28,449 INFO 15376658 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.264778MB
+
+2019-10-10 18:49:30,746 INFO 15378956 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\b4e6b854-a138-410d-8178-e7e94d77a21a\1567595834849167372266.jpg being renamed as ../ScriptDownloads\\0-loop\\b4e6b854-a138-410d-8178-e7e94d77a21a\36-1567595834849167372266.jpg
+
+2019-10-10 18:49:31,408 INFO 15379618 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.274992MB
+
+2019-10-10 18:49:33,223 INFO 15381433 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\d004b443-483c-4cef-8baf-4247613ba725\1567595845573-91395054.jpg being renamed as ../ScriptDownloads\\0-loop\\d004b443-483c-4cef-8baf-4247613ba725\37-1567595845573-91395054.jpg
+
+2019-10-10 18:49:33,502 INFO 15381712 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.182466MB
+
+2019-10-10 18:49:35,090 INFO 15383299 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\d04cf05e-e17a-43d8-8858-06d2f5953899\1567595856591-1472815302.jpg being renamed as ../ScriptDownloads\\0-loop\\d04cf05e-e17a-43d8-8858-06d2f5953899\38-1567595856591-1472815302.jpg
+
+2019-10-10 18:49:35,336 INFO 15383546 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.254797MB
+
+2019-10-10 18:49:36,566 INFO 15384775 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\338a5af4-40d0-400d-8135-45c410f69782\1567595866212192423103.jpg being renamed as ../ScriptDownloads\\0-loop\\338a5af4-40d0-400d-8135-45c410f69782\39-1567595866212192423103.jpg
+
+2019-10-10 18:49:36,786 INFO 15384996 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.07975MB
+
+2019-10-10 18:49:38,901 INFO 15387111 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\a6efcdbe-4d25-478a-8059-593731513e18\1567595881215-159408335.jpg being renamed as ../ScriptDownloads\\0-loop\\a6efcdbe-4d25-478a-8059-593731513e18\40-1567595881215-159408335.jpg
+
+2019-10-10 18:49:39,121 INFO 15387330 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.312893MB
+
+2019-10-10 18:49:41,001 INFO 15389210 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\b2f0bd59-05b5-46a4-8a23-d35acd4a07a5\1567595899232-1539044569.jpg being renamed as ../ScriptDownloads\\0-loop\\b2f0bd59-05b5-46a4-8a23-d35acd4a07a5\41-1567595899232-1539044569.jpg
+
+2019-10-10 18:49:41,976 INFO 15390185 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.461099MB
+
+2019-10-10 18:49:42,805 INFO 15391015 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\d9518333-7026-4199-87ca-13fd391edc3d\IMG_20190904_132356.jpg being renamed as ../ScriptDownloads\\0-loop\\d9518333-7026-4199-87ca-13fd391edc3d\42-IMG_20190904_132356.jpg
+
+2019-10-10 18:49:43,048 INFO 15391257 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.508274MB
+
+2019-10-10 18:49:44,725 INFO 15392934 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\96e9102b-e9b2-4229-8746-52b034aa69f4\IMG_20190904_132353.jpg being renamed as ../ScriptDownloads\\0-loop\\96e9102b-e9b2-4229-8746-52b034aa69f4\43-IMG_20190904_132353.jpg
+
+2019-10-10 18:49:45,020 INFO 15393230 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.486967MB
+
+2019-10-10 18:49:46,101 INFO 15394311 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\08737ad5-83f0-46c1-811a-b8153e67be79\IMG_20190904_132351.jpg being renamed as ../ScriptDownloads\\0-loop\\08737ad5-83f0-46c1-811a-b8153e67be79\44-IMG_20190904_132351.jpg
+
+2019-10-10 18:49:46,344 INFO 15394554 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.37678MB
+
+2019-10-10 18:49:47,405 INFO 15395615 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\e803ddf0-0357-4377-8fc9-650949981c4a\IMG_20190904_132346.jpg being renamed as ../ScriptDownloads\\0-loop\\e803ddf0-0357-4377-8fc9-650949981c4a\45-IMG_20190904_132346.jpg
+
+2019-10-10 18:49:47,616 INFO 15395825 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.468355MB
+
+2019-10-10 18:49:48,774 INFO 15396984 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\925598fa-f829-4733-84e3-84dd20e985b8\IMG_20190904_132343.jpg being renamed as ../ScriptDownloads\\0-loop\\925598fa-f829-4733-84e3-84dd20e985b8\46-IMG_20190904_132343.jpg
+
+2019-10-10 18:49:48,993 INFO 15397203 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.502292MB
+
+2019-10-10 18:49:50,076 INFO 15398285 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\572fba0d-efae-4f25-81dd-66526086a43d\IMG_20190904_132341.jpg being renamed as ../ScriptDownloads\\0-loop\\572fba0d-efae-4f25-81dd-66526086a43d\47-IMG_20190904_132341.jpg
+
+2019-10-10 18:49:50,369 INFO 15398579 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.591753MB
+
+2019-10-10 18:49:51,021 INFO 15399231 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\6c120d2b-33e5-4b99-8be9-2f28b0783090\IMG_20190904_132335.jpg being renamed as ../ScriptDownloads\\0-loop\\6c120d2b-33e5-4b99-8be9-2f28b0783090\48-IMG_20190904_132335.jpg
+
+2019-10-10 18:49:51,267 INFO 15399477 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.55791MB
+
+2019-10-10 18:49:52,154 INFO 15400363 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\7cf7e7c2-a545-4664-8a07-720719b81acd\IMG_20190904_132333.jpg being renamed as ../ScriptDownloads\\0-loop\\7cf7e7c2-a545-4664-8a07-720719b81acd\49-IMG_20190904_132333.jpg
+
+2019-10-10 18:49:52,369 INFO 15400579 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.459479MB
+
+2019-10-10 18:49:53,486 INFO 15401696 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\faac7375-5b26-4dae-878e-8f2c3131a0bb\IMG_20190904_132329.jpg being renamed as ../ScriptDownloads\\0-loop\\faac7375-5b26-4dae-878e-8f2c3131a0bb\50-IMG_20190904_132329.jpg
+
+2019-10-10 18:49:53,698 INFO 15401907 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.47412MB
+
+2019-10-10 18:49:54,675 INFO 15402885 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\f5e6fe7e-a668-40a1-8df5-d5dc6416c4ff\IMG_20190904_132324.jpg being renamed as ../ScriptDownloads\\0-loop\\f5e6fe7e-a668-40a1-8df5-d5dc6416c4ff\51-IMG_20190904_132324.jpg
+
+2019-10-10 18:49:54,907 INFO 15403116 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.589606MB
+
+2019-10-10 18:49:56,011 INFO 15404220 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\38975187-d78c-45bd-86fa-4bf370e29b63\IMG_20190904_132319.jpg being renamed as ../ScriptDownloads\\0-loop\\38975187-d78c-45bd-86fa-4bf370e29b63\52-IMG_20190904_132319.jpg
+
+2019-10-10 18:49:56,252 INFO 15404461 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.423903MB
+
+2019-10-10 18:49:57,283 INFO 15405492 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\8f4d7d51-9007-485a-8238-af3a613090e6\IMG_20190904_132314.jpg being renamed as ../ScriptDownloads\\0-loop\\8f4d7d51-9007-485a-8238-af3a613090e6\53-IMG_20190904_132314.jpg
+
+2019-10-10 18:49:57,488 INFO 15405697 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 0.537979MB
+
+2019-10-10 18:49:58,061 INFO 15406270 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\d3b30b8e-486f-4669-88c1-42666f54851f\IMG_20190904_132310.jpg being renamed as ../ScriptDownloads\\0-loop\\d3b30b8e-486f-4669-88c1-42666f54851f\54-IMG_20190904_132310.jpg
+
+2019-10-10 18:49:58,571 INFO 15406780 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 5.118027MB
+
+2019-10-10 18:50:00,841 INFO 15409050 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\7eb1912b-dee3-493d-86d3-64cd89457322\15676048859503264835981161078172.jpg being renamed as ../ScriptDownloads\\0-loop\\7eb1912b-dee3-493d-86d3-64cd89457322\55-15676048859503264835981161078172.jpg
+
+2019-10-10 18:50:01,125 INFO 15409335 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 5.025527MB
+
+2019-10-10 18:50:03,350 INFO 15411559 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\b6d07650-0225-4c9a-843e-83616b848cdb\15676048985163347121120453181693.jpg being renamed as ../ScriptDownloads\\0-loop\\b6d07650-0225-4c9a-843e-83616b848cdb\56-15676048985163347121120453181693.jpg
+
+2019-10-10 18:50:03,583 INFO 15411793 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 5.320647MB
+
+2019-10-10 18:50:05,490 INFO 15413699 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\c2314060-b7c8-46c7-8981-01f8db4d9bca\15676049084612085470840392646100.jpg being renamed as ../ScriptDownloads\\0-loop\\c2314060-b7c8-46c7-8981-01f8db4d9bca\57-15676049084612085470840392646100.jpg
+
+2019-10-10 18:50:05,706 INFO 15413916 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 5.643864MB
+
+2019-10-10 18:50:08,450 INFO 15416659 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\394a5fe8-e50a-41e3-8351-553eff26b6b2\15676049188858213413352129661655.jpg being renamed as ../ScriptDownloads\\0-loop\\394a5fe8-e50a-41e3-8351-553eff26b6b2\58-15676049188858213413352129661655.jpg
+
+2019-10-10 18:50:08,714 INFO 15416923 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 5.848181MB
+
+2019-10-10 18:50:12,053 INFO 15420262 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\b177f2c5-e209-4d8d-826b-2d42f9928fd3\15676049286262294034158914174117.jpg being renamed as ../ScriptDownloads\\0-loop\\b177f2c5-e209-4d8d-826b-2d42f9928fd3\59-15676049286262294034158914174117.jpg
+
+2019-10-10 18:50:12,514 INFO 15420724 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 5.746033MB
+
+2019-10-10 18:50:14,694 INFO 15422903 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\181758bb-9a49-40e6-888d-34f54ee7dc58\15676049381888636646943881767338.jpg being renamed as ../ScriptDownloads\\0-loop\\181758bb-9a49-40e6-888d-34f54ee7dc58\60-15676049381888636646943881767338.jpg
+
+2019-10-10 18:50:15,185 INFO 15423395 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 5.787222MB
+
+2019-10-10 18:50:17,761 INFO 15425970 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\0cba0ba6-2fe7-474f-821f-da6203e91e7c\15676049517594492000861200895228.jpg being renamed as ../ScriptDownloads\\0-loop\\0cba0ba6-2fe7-474f-821f-da6203e91e7c\61-15676049517594492000861200895228.jpg
+
+2019-10-10 18:50:18,330 INFO 15426540 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 5.644007MB
+
+2019-10-10 18:50:19,938 INFO 15428148 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\9e5729bb-7342-4278-8c6e-a5c2cb853569\1567604964529162111579877449219.jpg being renamed as ../ScriptDownloads\\0-loop\\9e5729bb-7342-4278-8c6e-a5c2cb853569\62-1567604964529162111579877449219.jpg
+
+2019-10-10 18:50:20,259 INFO 15428469 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 5.419662MB
+
+2019-10-10 18:50:21,902 INFO 15430111 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\e493c8c6-d757-47c7-8c9c-ec9ee4cc909e\15676049727247236774967717747609.jpg being renamed as ../ScriptDownloads\\0-loop\\e493c8c6-d757-47c7-8c9c-ec9ee4cc909e\63-15676049727247236774967717747609.jpg
+
+2019-10-10 18:50:22,140 INFO 15430349 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 5.379499MB
+
+2019-10-10 18:50:24,161 INFO 15432370 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\d89d942e-f58d-4a0b-8537-caf0edc2629a\15676049999108183446028356453660.jpg being renamed as ../ScriptDownloads\\0-loop\\d89d942e-f58d-4a0b-8537-caf0edc2629a\64-15676049999108183446028356453660.jpg
+
+2019-10-10 18:50:24,366 INFO 15432575 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.744076MB
+
+2019-10-10 18:50:26,229 INFO 15434439 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\8c541720-cff8-48ab-8b29-d5b16f301c77\1567604953549555330300.jpg being renamed as ../ScriptDownloads\\0-loop\\8c541720-cff8-48ab-8b29-d5b16f301c77\65-1567604953549555330300.jpg
+
+2019-10-10 18:50:26,469 INFO 15434679 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.737296MB
+
+2019-10-10 18:50:28,323 INFO 15436532 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\a4a891b3-e78f-4800-8748-6028aeb47a3c\1567604976578-1654955031.jpg being renamed as ../ScriptDownloads\\0-loop\\a4a891b3-e78f-4800-8748-6028aeb47a3c\66-1567604976578-1654955031.jpg
+
+2019-10-10 18:50:28,543 INFO 15436753 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.559068MB
+
+2019-10-10 18:50:30,409 INFO 15438619 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\ac6499bf-5fbe-477d-8743-d509b244ed35\1567604997734-1378876433.jpg being renamed as ../ScriptDownloads\\0-loop\\ac6499bf-5fbe-477d-8743-d509b244ed35\67-1567604997734-1378876433.jpg
+
+2019-10-10 18:50:30,662 INFO 15438871 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 3.116393MB
+
+2019-10-10 18:50:33,011 INFO 15441221 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\c2992797-a997-4ada-8de9-146d9ff9d6d7\15676050165471778504991.jpg being renamed as ../ScriptDownloads\\0-loop\\c2992797-a997-4ada-8de9-146d9ff9d6d7\68-15676050165471778504991.jpg
+
+2019-10-10 18:50:33,297 INFO 15441506 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.93719MB
+
+2019-10-10 18:50:35,083 INFO 15443293 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\b579f973-68c9-43c3-81cd-f641cc446cea\1567605032874-712076056.jpg being renamed as ../ScriptDownloads\\0-loop\\b579f973-68c9-43c3-81cd-f641cc446cea\69-1567605032874-712076056.jpg
+
+2019-10-10 18:50:35,669 INFO 15443878 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.515923MB
+
+2019-10-10 18:50:37,854 INFO 15446064 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\4c93f3d1-6080-4175-8e9e-dee5dacd63c9\1567605052887431454691.jpg being renamed as ../ScriptDownloads\\0-loop\\4c93f3d1-6080-4175-8e9e-dee5dacd63c9\70-1567605052887431454691.jpg
+
+2019-10-10 18:50:38,063 INFO 15446272 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.591786MB
+
+2019-10-10 18:50:39,876 INFO 15448085 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\22de7217-7e1e-4421-88e2-1e480c541a15\1567605487140-1403135843.jpg being renamed as ../ScriptDownloads\\0-loop\\22de7217-7e1e-4421-88e2-1e480c541a15\71-1567605487140-1403135843.jpg
+
+2019-10-10 18:50:40,093 INFO 15448303 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.849319MB
+
+2019-10-10 18:50:41,711 INFO 15449920 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\c4cbd1a8-e03f-4e5f-8c25-6e71c393127f\15676055061551676715560.jpg being renamed as ../ScriptDownloads\\0-loop\\c4cbd1a8-e03f-4e5f-8c25-6e71c393127f\72-15676055061551676715560.jpg
+
+2019-10-10 18:50:41,927 INFO 15450137 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.48048MB
+
+2019-10-10 18:50:43,826 INFO 15452036 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\fa6b10db-3476-4417-8f1f-6302ceba7f6b\1567605521531-1060106568.jpg being renamed as ../ScriptDownloads\\0-loop\\fa6b10db-3476-4417-8f1f-6302ceba7f6b\73-1567605521531-1060106568.jpg
+
+2019-10-10 18:50:44,121 INFO 15452331 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.910665MB
+
+2019-10-10 18:50:45,219 INFO 15453428 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\a074d326-79b2-4c7d-80ba-8ad28acf6e87\15676055516191254134516.jpg being renamed as ../ScriptDownloads\\0-loop\\a074d326-79b2-4c7d-80ba-8ad28acf6e87\74-15676055516191254134516.jpg
+
+2019-10-10 18:50:45,496 INFO 15453705 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.659931MB
+
+2019-10-10 18:50:47,597 INFO 15455807 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\e651d531-8aac-4ee2-853e-7c73183b0d8f\1567605568466-1796921924.jpg being renamed as ../ScriptDownloads\\0-loop\\e651d531-8aac-4ee2-853e-7c73183b0d8f\75-1567605568466-1796921924.jpg
+
+2019-10-10 18:50:47,872 INFO 15456082 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.715419MB
+
+2019-10-10 18:50:50,263 INFO 15458472 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\7e6e50e5-a162-4e31-884d-1dae35292f38\1567605586767-688698492.jpg being renamed as ../ScriptDownloads\\0-loop\\7e6e50e5-a162-4e31-884d-1dae35292f38\76-1567605586767-688698492.jpg
+
+2019-10-10 18:50:50,480 INFO 15458690 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.541034MB
+
+2019-10-10 18:50:51,994 INFO 15460204 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\29d0b9fb-7142-4d7f-8b4d-a0e73b57c2c2\1567605602290-1097226955.jpg being renamed as ../ScriptDownloads\\0-loop\\29d0b9fb-7142-4d7f-8b4d-a0e73b57c2c2\77-1567605602290-1097226955.jpg
+
+2019-10-10 18:50:52,256 INFO 15460466 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.46892MB
+
+2019-10-10 18:50:53,458 INFO 15461668 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\8edafbbe-6131-4496-813e-b4dd389545b1\15676056197162024239946.jpg being renamed as ../ScriptDownloads\\0-loop\\8edafbbe-6131-4496-813e-b4dd389545b1\78-15676056197162024239946.jpg
+
+2019-10-10 18:50:53,682 INFO 15461892 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.392408MB
+
+2019-10-10 18:50:56,319 INFO 15464528 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\9d2c9a70-ea3f-44cc-891d-fa9c8e452eba\1567605635649-1075011780.jpg being renamed as ../ScriptDownloads\\0-loop\\9d2c9a70-ea3f-44cc-891d-fa9c8e452eba\79-1567605635649-1075011780.jpg
+
+2019-10-10 18:50:56,548 INFO 15464758 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.196463MB
+
+2019-10-10 18:50:57,640 INFO 15465849 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\669b8a72-35d6-46e1-8e06-197a34a1bdde\1567605672232-85468026.jpg being renamed as ../ScriptDownloads\\0-loop\\669b8a72-35d6-46e1-8e06-197a34a1bdde\80-1567605672232-85468026.jpg
+
+2019-10-10 18:50:57,875 INFO 15466084 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.301177MB
+
+2019-10-10 18:50:59,327 INFO 15467537 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\3563eead-07c8-4c84-81b1-c2a6e5f8d707\1567605691599348669893.jpg being renamed as ../ScriptDownloads\\0-loop\\3563eead-07c8-4c84-81b1-c2a6e5f8d707\81-1567605691599348669893.jpg
+
+2019-10-10 18:50:59,665 INFO 15467874 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 1.954436MB
+
+2019-10-10 18:51:01,166 INFO 15469376 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\720723fe-87ea-484e-8bff-159c8214967c\1567605706609494592439.jpg being renamed as ../ScriptDownloads\\0-loop\\720723fe-87ea-484e-8bff-159c8214967c\82-1567605706609494592439.jpg
+
+2019-10-10 18:51:01,512 INFO 15469722 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 1.895694MB
+
+2019-10-10 18:51:03,096 INFO 15471306 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\b1a68b51-0bd5-4268-892a-1286bac54e90\15676057230952114727220.jpg being renamed as ../ScriptDownloads\\0-loop\\b1a68b51-0bd5-4268-892a-1286bac54e90\83-15676057230952114727220.jpg
+
+2019-10-10 18:51:03,320 INFO 15471529 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 1.769734MB
+
+2019-10-10 18:51:04,832 INFO 15473042 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\42378921-b671-41f4-8cc3-1951d3331e73\1567605740176164192846.jpg being renamed as ../ScriptDownloads\\0-loop\\42378921-b671-41f4-8cc3-1951d3331e73\84-1567605740176164192846.jpg
+
+2019-10-10 18:51:05,065 INFO 15473274 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 1.747137MB
+
+2019-10-10 18:51:05,930 INFO 15474140 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\3c00f956-65a0-4621-8f1f-daad09986cc6\15676057558991302980150.jpg being renamed as ../ScriptDownloads\\0-loop\\3c00f956-65a0-4621-8f1f-daad09986cc6\85-15676057558991302980150.jpg
+
+2019-10-10 18:51:06,147 INFO 15474356 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 1.928528MB
+
+2019-10-10 18:51:06,969 INFO 15475179 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\a582dfde-db7b-4677-8300-6e9bd4c43e79\1567605779079-387164507.jpg being renamed as ../ScriptDownloads\\0-loop\\a582dfde-db7b-4677-8300-6e9bd4c43e79\86-1567605779079-387164507.jpg
+
+2019-10-10 18:51:07,186 INFO 15475396 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.141935MB
+
+2019-10-10 18:51:08,078 INFO 15476288 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\d18019b7-1015-4d97-8a87-e756847cf3fd\1567605797763-2055321394.jpg being renamed as ../ScriptDownloads\\0-loop\\d18019b7-1015-4d97-8a87-e756847cf3fd\87-1567605797763-2055321394.jpg
+
+2019-10-10 18:51:08,410 INFO 15476619 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.329685MB
+
+2019-10-10 18:51:10,608 INFO 15478818 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\12ade3a5-b353-4289-8cbe-fc1a612006fd\1567605813379-1100271826.jpg being renamed as ../ScriptDownloads\\0-loop\\12ade3a5-b353-4289-8cbe-fc1a612006fd\88-1567605813379-1100271826.jpg
+
+2019-10-10 18:51:10,835 INFO 15479045 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.363805MB
+
+2019-10-10 18:51:11,938 INFO 15480148 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\c62d54e0-8eab-4955-8d17-446b953646cd\15676058289811117683374.jpg being renamed as ../ScriptDownloads\\0-loop\\c62d54e0-8eab-4955-8d17-446b953646cd\89-15676058289811117683374.jpg
+
+2019-10-10 18:51:12,270 INFO 15480480 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.431208MB
+
+2019-10-10 18:51:13,772 INFO 15481981 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\59941ab3-8483-4678-86dd-a2b761842ec7\1567605846873488927983.jpg being renamed as ../ScriptDownloads\\0-loop\\59941ab3-8483-4678-86dd-a2b761842ec7\90-1567605846873488927983.jpg
+
+2019-10-10 18:51:14,004 INFO 15482213 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 2.876775MB
+
+2019-10-10 18:51:15,823 INFO 15484033 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\228cbaaf-4727-4eb9-8d49-fb91c518ce5e\156760586123040995528.jpg being renamed as ../ScriptDownloads\\0-loop\\228cbaaf-4727-4eb9-8d49-fb91c518ce5e\91-156760586123040995528.jpg
+
+2019-10-10 18:51:16,045 INFO 15484255 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 3.251685MB
+
+2019-10-10 18:51:18,077 INFO 15486287 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\c465b14f-ddd1-4827-8f61-b88d0449770d\1567605874525-1518513875.jpg being renamed as ../ScriptDownloads\\0-loop\\c465b14f-ddd1-4827-8f61-b88d0449770d\92-1567605874525-1518513875.jpg
+
+2019-10-10 18:51:18,297 INFO 15486507 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 5.584983MB
+
+2019-10-10 18:51:20,247 INFO 15488456 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\1af7dcd7-83cf-49da-8549-8d5868ecffbc\15676077157641960626845796111462.jpg being renamed as ../ScriptDownloads\\0-loop\\1af7dcd7-83cf-49da-8549-8d5868ecffbc\93-15676077157641960626845796111462.jpg
+
+2019-10-10 18:51:20,456 INFO 15488665 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 6.158574MB
+
+2019-10-10 18:51:22,213 INFO 15490422 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\bf6e2854-f712-49af-8cf9-e609f1b80e94\15676077299193170326268999344519.jpg being renamed as ../ScriptDownloads\\0-loop\\bf6e2854-f712-49af-8cf9-e609f1b80e94\94-15676077299193170326268999344519.jpg
+
+2019-10-10 18:51:22,511 INFO 15490720 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 5.974024MB
+
+2019-10-10 18:51:24,784 INFO 15492994 
+<ipython-input-47-6f85d87bc6f9> <ipython-input-47-6f85d87bc6f9> renameFile 47 
+../ScriptDownloads\\0-loop\\7952635f-7687-42be-85d7-18d4519dd485\15676077418027269913525925468535.jpg being renamed as ../ScriptDownloads\\0-loop\\7952635f-7687-42be-85d7-18d4519dd485\95-15676077418027269913525925468535.jpg
+
+2019-10-10 18:51:25,039 INFO 15493248 
+<ipython-input-52-510276821d21> <ipython-input-52-510276821d21> <module> 53 
+The size of the current attachment being downloaded is 6.014956MB
+
