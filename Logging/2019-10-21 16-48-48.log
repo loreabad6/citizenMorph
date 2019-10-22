@@ -1,0 +1,284 @@
+2019-10-21 16:48:48,300 INFO 2321809 
+<ipython-input-8-e2120cc283b5> <ipython-input-8-e2120cc283b5> <module> 64 
+Script Starting at 2019-10-21 16:48:48.300107
+
+2019-10-21 16:48:54,847 INFO 2328357 
+<ipython-input-8-e2120cc283b5> <ipython-input-8-e2120cc283b5> <module> 77 
+Iterating through layers in Feature Layer "service_d5a26ba7fee8434dafe9403fd67ad059"
+
+2019-10-21 16:50:14,339 INFO 2407849 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 64 
+Script Starting at 2019-10-21 16:50:14.339953
+
+2019-10-21 16:50:20,233 INFO 2413742 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 77 
+Iterating through layers in Feature Layer "service_d5a26ba7fee8434dafe9403fd67ad059"
+
+2019-10-21 16:50:23,541 INFO 2417050 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 100 
+Time: 2019-10-21 16:50:23.541510
+
+2019-10-21 16:50:23,542 INFO 2417051 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 101 
+Currently looping through feature attachments in layer 1 of 1: storing in folder named "0-surveyPoint"
+
+2019-10-21 16:50:23,544 INFO 2417053 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 102 
+There are 64 features to iterate in this layer
+
+2019-10-21 16:50:23,819 INFO 2417328 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\1\1-15663871483551841638118.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:24,032 INFO 2417542 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\2\2-389989CF-7C6A-4A55-BE0A-DAA6B01B283D.jpeg already exists. Not downloading again!
+
+2019-10-21 16:50:24,274 INFO 2417783 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\3\3-CDCC7C75-8FA9-40E1-980B-BC7ADB4FF552.jpeg already exists. Not downloading again!
+
+2019-10-21 16:50:24,803 INFO 2418313 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\4\4-C134FE5F-C400-4E95-BC26-8C932A394B07.jpeg already exists. Not downloading again!
+
+2019-10-21 16:50:25,019 INFO 2418529 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\5\5-1566917171038-778181784.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:25,245 INFO 2418754 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\6\6-15670735120811253738632.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:25,451 INFO 2418960 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\7\7-15670737967121013087840.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:25,670 INFO 2419180 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\8\8-1567074463471-1840186848.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:25,901 INFO 2419410 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\9\9-image.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:26,112 INFO 2419621 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\10\10-9F5023F4-5323-4A02-A501-D022DBC48DE1.jpeg already exists. Not downloading again!
+
+2019-10-21 16:50:26,338 INFO 2419847 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\11\11-B06C217F-12CB-447C-9B80-63AEB96471F9.jpeg already exists. Not downloading again!
+
+2019-10-21 16:50:26,571 INFO 2420081 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\12\12-image.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:26,829 INFO 2420338 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\13\13-image.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:27,096 INFO 2420605 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\14\14-image.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:27,585 INFO 2421094 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\16\15-15675904521585512437494732596818.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:27,796 INFO 2421305 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\17\16-15675957963361719209467.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:28,021 INFO 2421531 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\18\17-1567595964110547868615.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:28,254 INFO 2421763 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\19\18-15675959091546381191343432412648.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:28,809 INFO 2422318 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\21\19-15675967569257117009545662753637.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:29,053 INFO 2422563 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\22\20-1567604871729573560134884470007.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:29,262 INFO 2422772 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\23\21-1567604903313-248784947.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:29,481 INFO 2422991 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\24\22-1567605253542-254695870.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:29,691 INFO 2423201 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\25\23-15676077000083489751647921184582.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:30,138 INFO 2423647 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\27\24-32C75531-4EDA-4D06-A480-BA9A3AC1EE16.jpeg already exists. Not downloading again!
+
+2019-10-21 16:50:31,840 INFO 2425350 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\34\25-15676757983253103429169208362161.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:32,140 INFO 2425650 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\35\26-20190905_093049.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:32,517 INFO 2426026 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\36\27-image.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:32,727 INFO 2426236 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\37\28-image.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:32,942 INFO 2426452 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\38\29-image.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:33,166 INFO 2426675 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\39\30-15676759741109131122420007111107.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:33,406 INFO 2426915 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\40\31-2019-09-05 09.33.39.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:33,621 INFO 2427130 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\41\32-image.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:34,218 INFO 2427727 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\43\33-15676766556524138064104028640527.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:34,632 INFO 2428142 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\45\34-image.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:35,054 INFO 2428563 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\47\35-image.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:35,308 INFO 2428817 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\48\36-image.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:35,571 INFO 2429080 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\49\37-image.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:36,089 INFO 2429598 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\51\38-15676773516057671787330620953743.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:36,309 INFO 2429818 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\52\39-image.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:36,523 INFO 2430032 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\53\40-image.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:36,984 INFO 2430493 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\55\41-1567678876283103948365.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:37,206 INFO 2430715 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\56\42-overview_image_20190905122442.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:37,414 INFO 2430923 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\57\43-image.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:37,740 INFO 2431249 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\58\44-C7302A4A-EA4F-4250-9392-8FE12FA909B1.jpeg already exists. Not downloading again!
+
+2019-10-21 16:50:38,233 INFO 2431742 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\60\45-IMG_20190923_082305.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:38,461 INFO 2431970 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\61\46-image.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:38,674 INFO 2432183 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\62\47-image.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:38,887 INFO 2432397 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\63\48-image.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:39,132 INFO 2432641 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 134 
+File ../ScriptDownloads\\0-surveyPoint\\64\49-image.jpg already exists. Not downloading again!
+
+2019-10-21 16:50:39,133 INFO 2432642 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 156 
+15 of these features do not contain attachments
+
+2019-10-21 16:50:39,135 INFO 2432644 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 160 
+Summary: 0 new layer files have been downloaded totalling 0.0MB in size
+
+2019-10-21 16:50:39,138 INFO 2432647 
+<ipython-input-9-ef1855288f1b> <ipython-input-9-ef1855288f1b> <module> 161 
+Summary: 49 layer attachments already existed so were not downloaded again
+
+2019-10-21 16:57:20,305 INFO 2833814 
+<ipython-input-14-c9882e70a447> <ipython-input-14-c9882e70a447> <module> 2 
+Time: 2019-10-21 16:57:20.305599
+
+2019-10-21 16:57:20,307 INFO 2833816 
+<ipython-input-14-c9882e70a447> <ipython-input-14-c9882e70a447> <module> 3 
+Currently looping through feature attachments in layer 1 of 1: storing in folder named "0-loop"
+
+2019-10-21 16:57:20,309 INFO 2833818 
+<ipython-input-14-c9882e70a447> <ipython-input-14-c9882e70a447> <module> 4 
+There are 205 features to iterate in this layer
+
+2019-10-21 16:59:29,015 INFO 2962524 
+<ipython-input-16-dc677a71ad00> <ipython-input-16-dc677a71ad00> <module> 2 
+Time: 2019-10-21 16:59:29.015363
+
+2019-10-21 16:59:29,018 INFO 2962527 
+<ipython-input-16-dc677a71ad00> <ipython-input-16-dc677a71ad00> <module> 3 
+Currently looping through feature attachments in layer 1 of 1: storing in folder named "0-loop"
+
+2019-10-21 16:59:29,020 INFO 2962529 
+<ipython-input-16-dc677a71ad00> <ipython-input-16-dc677a71ad00> <module> 4 
+There are 205 features to iterate in this layer
+
+2019-10-21 17:01:49,718 INFO 3103227 
+<ipython-input-21-9cb8303d5cba> <ipython-input-21-9cb8303d5cba> <module> 2 
+Time: 2019-10-21 17:01:49.718694
+
+2019-10-21 17:01:49,720 INFO 3103229 
+<ipython-input-21-9cb8303d5cba> <ipython-input-21-9cb8303d5cba> <module> 3 
+Currently looping through feature attachments in layer 1 of 1: storing in folder named "0-loop"
+
+2019-10-21 17:01:49,722 INFO 3103231 
+<ipython-input-21-9cb8303d5cba> <ipython-input-21-9cb8303d5cba> <module> 4 
+There are 205 features to iterate in this layer
+
+2019-10-21 17:02:32,107 INFO 3145617 
+<ipython-input-22-9cb8303d5cba> <ipython-input-22-9cb8303d5cba> <module> 2 
+Time: 2019-10-21 17:02:32.107958
+
+2019-10-21 17:02:32,109 INFO 3145619 
+<ipython-input-22-9cb8303d5cba> <ipython-input-22-9cb8303d5cba> <module> 3 
+Currently looping through feature attachments in layer 1 of 1: storing in folder named "0-loop"
+
+2019-10-21 17:02:32,112 INFO 3145622 
+<ipython-input-22-9cb8303d5cba> <ipython-input-22-9cb8303d5cba> <module> 4 
+There are 205 features to iterate in this layer
+

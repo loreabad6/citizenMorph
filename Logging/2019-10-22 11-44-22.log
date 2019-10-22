@@ -1,0 +1,88 @@
+2019-10-22 11:44:22,928 INFO 11748258 
+<ipython-input-73-5d426b6433b3> <ipython-input-73-5d426b6433b3> <module> 64 
+Script Starting at 2019-10-22 11:44:22.928712
+
+2019-10-22 11:44:30,064 INFO 11755394 
+<ipython-input-73-5d426b6433b3> <ipython-input-73-5d426b6433b3> <module> 77 
+Iterating through layers in Feature Layer "service_ff36500870a149e7b0fc304a24ea2dba"
+
+2019-10-22 11:44:33,882 INFO 11759212 
+<ipython-input-73-5d426b6433b3> <ipython-input-73-5d426b6433b3> <module> 100 
+Time: 2019-10-22 11:44:33.882249
+
+2019-10-22 11:44:33,883 INFO 11759213 
+<ipython-input-73-5d426b6433b3> <ipython-input-73-5d426b6433b3> <module> 101 
+Currently looping through feature attachments in layer 1 of 1: storing in folder named "0-surveyPoint"
+
+2019-10-22 11:44:33,884 INFO 11759214 
+<ipython-input-73-5d426b6433b3> <ipython-input-73-5d426b6433b3> <module> 102 
+There are 7 features to iterate in this layer
+
+2019-10-22 11:44:34,301 INFO 11759631 
+<ipython-input-73-5d426b6433b3> <ipython-input-73-5d426b6433b3> <module> 127 
+The size of the current attachment being downloaded is 0.62013MB
+
+2019-10-22 11:44:35,415 INFO 11760745 
+<ipython-input-73-5d426b6433b3> <ipython-input-73-5d426b6433b3> renameFile 47 
+../ScriptDownloads_DE\\0-surveyPoint\\4\20190901_111009.jpg being renamed as ../ScriptDownloads_DE\\0-surveyPoint\\4\2-20190901_111009.jpg
+
+2019-10-22 11:44:35,622 INFO 11760952 
+<ipython-input-73-5d426b6433b3> <ipython-input-73-5d426b6433b3> <module> 127 
+The size of the current attachment being downloaded is 1.631116MB
+
+2019-10-22 11:44:36,998 INFO 11762328 
+<ipython-input-73-5d426b6433b3> <ipython-input-73-5d426b6433b3> renameFile 47 
+../ScriptDownloads_DE\\0-surveyPoint\\5\20190903_113704.jpg being renamed as ../ScriptDownloads_DE\\0-surveyPoint\\5\3-20190903_113704.jpg
+
+2019-10-22 11:44:37,210 INFO 11762540 
+<ipython-input-73-5d426b6433b3> <ipython-input-73-5d426b6433b3> <module> 127 
+The size of the current attachment being downloaded is 0.55338MB
+
+2019-10-22 11:44:38,487 INFO 11763817 
+<ipython-input-73-5d426b6433b3> <ipython-input-73-5d426b6433b3> renameFile 47 
+../ScriptDownloads_DE\\0-surveyPoint\\6\15675108335011137043949.jpg being renamed as ../ScriptDownloads_DE\\0-surveyPoint\\6\4-15675108335011137043949.jpg
+
+2019-10-22 11:44:38,691 INFO 11764020 
+<ipython-input-73-5d426b6433b3> <ipython-input-73-5d426b6433b3> <module> 127 
+The size of the current attachment being downloaded is 2.278732MB
+
+2019-10-22 11:44:39,704 INFO 11765034 
+<ipython-input-73-5d426b6433b3> <ipython-input-73-5d426b6433b3> renameFile 47 
+../ScriptDownloads_DE\\0-surveyPoint\\7\1567522935783-1640655733.jpg being renamed as ../ScriptDownloads_DE\\0-surveyPoint\\7\5-1567522935783-1640655733.jpg
+
+2019-10-22 11:44:41,175 INFO 11766505 
+<ipython-input-73-5d426b6433b3> <ipython-input-73-5d426b6433b3> <module> 156 
+3 of these features do not contain attachments
+
+2019-10-22 11:44:41,176 INFO 11766506 
+<ipython-input-73-5d426b6433b3> <ipython-input-73-5d426b6433b3> <module> 160 
+Summary: 4 new layer files have been downloaded totalling 5.083358MB in size
+
+2019-10-22 11:44:41,177 INFO 11766506 
+<ipython-input-73-5d426b6433b3> <ipython-input-73-5d426b6433b3> <module> 161 
+Summary: 0 layer attachments already existed so were not downloaded again
+
+2019-10-22 11:45:14,662 INFO 11799992 
+<ipython-input-74-2931b5e1fb14> <ipython-input-74-2931b5e1fb14> <module> 21 
+Time: 2019-10-22 11:45:14.662773
+
+2019-10-22 11:45:14,662 INFO 11799992 
+<ipython-input-74-2931b5e1fb14> <ipython-input-74-2931b5e1fb14> <module> 22 
+Currently looping through feature attachments in layer 1 of 1: storing in folder named "0-loop"
+
+2019-10-22 11:45:14,663 INFO 11799993 
+<ipython-input-74-2931b5e1fb14> <ipython-input-74-2931b5e1fb14> <module> 23 
+There are 7 features to iterate in this layer
+
+2019-10-22 11:45:17,233 INFO 11802563 
+<ipython-input-74-2931b5e1fb14> <ipython-input-74-2931b5e1fb14> <module> 80 
+7 of these features do not contain attachments
+
+2019-10-22 11:45:17,234 INFO 11802564 
+<ipython-input-74-2931b5e1fb14> <ipython-input-74-2931b5e1fb14> <module> 84 
+Summary: 4 new files have been downloaded totalling 5.083358MB in size
+
+2019-10-22 11:45:17,236 INFO 11802566 
+<ipython-input-74-2931b5e1fb14> <ipython-input-74-2931b5e1fb14> <module> 85 
+Summary: 0 attachments already existed so were not downloaded again
+

@@ -1,0 +1,1140 @@
+2019-10-22 13:17:10,800 INFO 993135 
+<ipython-input-14-8fc15f84eb4b> <ipython-input-14-8fc15f84eb4b> <module> 74 
+Script Starting at 2019-10-22 13:17:10.800815
+
+2019-10-22 13:17:17,094 INFO 999428 
+<ipython-input-14-8fc15f84eb4b> <ipython-input-14-8fc15f84eb4b> <module> 87 
+Iterating through layers in Feature Layer "service_ff36500870a149e7b0fc304a24ea2dba"
+
+2019-10-22 13:17:20,327 INFO 1002661 
+<ipython-input-14-8fc15f84eb4b> <ipython-input-14-8fc15f84eb4b> <module> 109 
+Time: 2019-10-22 13:17:20.327305
+
+2019-10-22 13:17:20,332 INFO 1002667 
+<ipython-input-14-8fc15f84eb4b> <ipython-input-14-8fc15f84eb4b> <module> 110 
+Currently looping through feature attachments in layer 1 of 1: storing in folder named "0-surveyPoint"
+
+2019-10-22 13:17:20,337 INFO 1002672 
+<ipython-input-14-8fc15f84eb4b> <ipython-input-14-8fc15f84eb4b> <module> 111 
+There are 7 features to iterate in this layer
+
+2019-10-22 13:17:20,879 INFO 1003214 
+<ipython-input-14-8fc15f84eb4b> <ipython-input-14-8fc15f84eb4b> <module> 143 
+File ../ScriptDownloads_DE\\0-surveyPoint\\4\2-20190901_111009.jpg already exists. Not downloading again!
+
+2019-10-22 13:17:21,106 INFO 1003440 
+<ipython-input-14-8fc15f84eb4b> <ipython-input-14-8fc15f84eb4b> <module> 143 
+File ../ScriptDownloads_DE\\0-surveyPoint\\5\3-20190903_113704.jpg already exists. Not downloading again!
+
+2019-10-22 13:17:21,434 INFO 1003768 
+<ipython-input-14-8fc15f84eb4b> <ipython-input-14-8fc15f84eb4b> <module> 143 
+File ../ScriptDownloads_DE\\0-surveyPoint\\6\4-15675108335011137043949.jpg already exists. Not downloading again!
+
+2019-10-22 13:17:21,661 INFO 1003996 
+<ipython-input-14-8fc15f84eb4b> <ipython-input-14-8fc15f84eb4b> <module> 143 
+File ../ScriptDownloads_DE\\0-surveyPoint\\7\5-1567522935783-1640655733.jpg already exists. Not downloading again!
+
+2019-10-22 13:17:22,235 INFO 1004569 
+<ipython-input-14-8fc15f84eb4b> <ipython-input-14-8fc15f84eb4b> <module> 165 
+3 of these features do not contain attachments
+
+2019-10-22 13:17:24,105 INFO 1006439 
+<ipython-input-14-8fc15f84eb4b> <ipython-input-14-8fc15f84eb4b> <module> 189 
+Time: 2019-10-22 13:17:24.105284
+
+2019-10-22 13:17:24,109 INFO 1006444 
+<ipython-input-14-8fc15f84eb4b> <ipython-input-14-8fc15f84eb4b> <module> 190 
+Currently looping through feature attachments in layer 1 of 1: storing in folder named "0-loop"
+
+2019-10-22 13:17:24,114 INFO 1006449 
+<ipython-input-14-8fc15f84eb4b> <ipython-input-14-8fc15f84eb4b> <module> 191 
+There are 7 features to iterate in this layer
+
+2019-10-22 13:17:25,755 INFO 1008089 
+<ipython-input-14-8fc15f84eb4b> <ipython-input-14-8fc15f84eb4b> <module> 248 
+7 of these features do not contain attachments
+
+2019-10-22 13:17:25,759 INFO 1008093 
+<ipython-input-14-8fc15f84eb4b> <ipython-input-14-8fc15f84eb4b> <module> 252 
+Summary: 0 new files have been downloaded totalling 0.0MB in size
+
+2019-10-22 13:17:25,764 INFO 1008098 
+<ipython-input-14-8fc15f84eb4b> <ipython-input-14-8fc15f84eb4b> <module> 253 
+Summary: 4 attachments already existed so were not downloaded again
+
+2019-10-22 13:17:41,431 INFO 1023765 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 74 
+Script Starting at 2019-10-22 13:17:41.431197
+
+2019-10-22 13:17:47,539 INFO 1029873 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 87 
+Iterating through layers in Feature Layer "service_d5a26ba7fee8434dafe9403fd67ad059"
+
+2019-10-22 13:17:50,780 INFO 1033114 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 109 
+Time: 2019-10-22 13:17:50.780042
+
+2019-10-22 13:17:50,780 INFO 1033114 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 110 
+Currently looping through feature attachments in layer 1 of 1: storing in folder named "0-surveyPoint"
+
+2019-10-22 13:17:50,800 INFO 1033134 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 111 
+There are 64 features to iterate in this layer
+
+2019-10-22 13:17:51,144 INFO 1033478 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\1\1-15663871483551841638118.jpg already exists. Not downloading again!
+
+2019-10-22 13:17:51,369 INFO 1033703 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\2\2-389989CF-7C6A-4A55-BE0A-DAA6B01B283D.jpeg already exists. Not downloading again!
+
+2019-10-22 13:17:51,607 INFO 1033941 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\3\3-CDCC7C75-8FA9-40E1-980B-BC7ADB4FF552.jpeg already exists. Not downloading again!
+
+2019-10-22 13:17:51,857 INFO 1034192 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\4\4-C134FE5F-C400-4E95-BC26-8C932A394B07.jpeg already exists. Not downloading again!
+
+2019-10-22 13:17:52,092 INFO 1034426 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\5\5-1566917171038-778181784.jpg already exists. Not downloading again!
+
+2019-10-22 13:17:52,323 INFO 1034658 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\6\6-15670735120811253738632.jpg already exists. Not downloading again!
+
+2019-10-22 13:17:52,555 INFO 1034890 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\7\7-15670737967121013087840.jpg already exists. Not downloading again!
+
+2019-10-22 13:17:52,779 INFO 1035113 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\8\8-1567074463471-1840186848.jpg already exists. Not downloading again!
+
+2019-10-22 13:17:53,026 INFO 1035361 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\9\9-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:17:53,327 INFO 1035661 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\10\10-9F5023F4-5323-4A02-A501-D022DBC48DE1.jpeg already exists. Not downloading again!
+
+2019-10-22 13:17:53,561 INFO 1035895 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\11\11-B06C217F-12CB-447C-9B80-63AEB96471F9.jpeg already exists. Not downloading again!
+
+2019-10-22 13:17:53,800 INFO 1036135 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\12\12-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:17:54,207 INFO 1036542 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\13\13-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:17:54,433 INFO 1036767 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\14\14-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:17:54,899 INFO 1037233 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\16\15-15675904521585512437494732596818.jpg already exists. Not downloading again!
+
+2019-10-22 13:17:55,174 INFO 1037508 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\17\16-15675957963361719209467.jpg already exists. Not downloading again!
+
+2019-10-22 13:17:55,477 INFO 1037812 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\18\17-1567595964110547868615.jpg already exists. Not downloading again!
+
+2019-10-22 13:17:55,727 INFO 1038062 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\19\18-15675959091546381191343432412648.jpg already exists. Not downloading again!
+
+2019-10-22 13:17:56,196 INFO 1038530 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\21\19-15675967569257117009545662753637.jpg already exists. Not downloading again!
+
+2019-10-22 13:17:56,431 INFO 1038766 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\22\20-1567604871729573560134884470007.jpg already exists. Not downloading again!
+
+2019-10-22 13:17:56,715 INFO 1039050 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\23\21-1567604903313-248784947.jpg already exists. Not downloading again!
+
+2019-10-22 13:17:56,941 INFO 1039276 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\24\22-1567605253542-254695870.jpg already exists. Not downloading again!
+
+2019-10-22 13:17:57,183 INFO 1039517 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\25\23-15676077000083489751647921184582.jpg already exists. Not downloading again!
+
+2019-10-22 13:17:57,685 INFO 1040019 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\27\24-32C75531-4EDA-4D06-A480-BA9A3AC1EE16.jpeg already exists. Not downloading again!
+
+2019-10-22 13:17:59,427 INFO 1041762 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\34\25-15676757983253103429169208362161.jpg already exists. Not downloading again!
+
+2019-10-22 13:17:59,657 INFO 1041991 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\35\26-20190905_093049.jpg already exists. Not downloading again!
+
+2019-10-22 13:17:59,917 INFO 1042252 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\36\27-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:00,197 INFO 1042531 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\37\28-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:00,434 INFO 1042769 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\38\29-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:00,655 INFO 1042990 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\39\30-15676759741109131122420007111107.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:00,880 INFO 1043215 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\40\31-2019-09-05 09.33.39.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:01,106 INFO 1043441 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\41\32-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:01,558 INFO 1043892 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\43\33-15676766556524138064104028640527.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:02,004 INFO 1044338 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\45\34-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:02,577 INFO 1044911 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\47\35-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:02,807 INFO 1045141 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\48\36-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:03,056 INFO 1045390 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\49\37-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:03,490 INFO 1045825 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\51\38-15676773516057671787330620953743.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:03,722 INFO 1046057 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\52\39-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:03,946 INFO 1046281 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\53\40-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:04,650 INFO 1046984 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\55\41-1567678876283103948365.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:04,889 INFO 1047224 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\56\42-overview_image_20190905122442.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:05,125 INFO 1047460 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\57\43-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:05,343 INFO 1047677 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\58\44-C7302A4A-EA4F-4250-9392-8FE12FA909B1.jpeg already exists. Not downloading again!
+
+2019-10-22 13:18:05,806 INFO 1048141 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\60\45-IMG_20190923_082305.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:06,036 INFO 1048371 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\61\46-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:06,281 INFO 1048615 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\62\47-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:06,573 INFO 1048908 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\63\48-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:06,835 INFO 1049170 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 143 
+File ../ScriptDownloads_EN\\0-surveyPoint\\64\49-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:06,835 INFO 1049170 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 165 
+15 of these features do not contain attachments
+
+2019-10-22 13:18:09,453 INFO 1051788 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 189 
+Time: 2019-10-22 13:18:09.453684
+
+2019-10-22 13:18:09,453 INFO 1051788 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 190 
+Currently looping through feature attachments in layer 1 of 1: storing in folder named "0-loop"
+
+2019-10-22 13:18:09,471 INFO 1051806 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 191 
+There are 205 features to iterate in this layer
+
+2019-10-22 13:18:10,621 INFO 1052956 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\4\1-FF955453-F867-41E5-88DC-FB7D615E2A3C.jpeg already exists. Not downloading again!
+
+2019-10-22 13:18:10,868 INFO 1053203 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\4\2-53CC696A-D046-4F9C-821B-A317855A820A.jpeg already exists. Not downloading again!
+
+2019-10-22 13:18:11,111 INFO 1053445 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\5\3-1566917200444-399006905.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:11,348 INFO 1053683 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\5\4-1566917215666-1409039817.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:11,586 INFO 1053921 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\5\5-15669172276231469317947.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:11,830 INFO 1054164 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\6\6-1567073522635-1182984439.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:12,103 INFO 1054437 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\6\7-1567073533195106721579.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:12,335 INFO 1054670 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\6\8-1567073546869613051358.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:12,557 INFO 1054892 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\6\9-156707355628537250878.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:12,788 INFO 1055122 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\6\10-15670735662631712792446.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:13,032 INFO 1055366 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\6\11-15670735747131809977477.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:13,264 INFO 1055599 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\6\12-1567073589929-1706338533.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:13,549 INFO 1055884 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\6\13-1567073598908-1095554148.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:13,837 INFO 1056172 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\6\14-1567073608173-1828729471.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:14,078 INFO 1056413 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\6\15-1567073616468628931660.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:14,324 INFO 1056659 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\6\16-1567073625313-2069597812.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:14,563 INFO 1056898 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\6\17-15670736324011630415135.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:14,795 INFO 1057130 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\6\18-15670736419311332952025.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:15,133 INFO 1057467 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\6\19-1567073649733-11002315.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:15,393 INFO 1057728 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\6\20-1567073658136393970624.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:16,039 INFO 1058373 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\9\21-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:16,258 INFO 1058593 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\9\22-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:16,928 INFO 1059262 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\12\23-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:17,371 INFO 1059705 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\14\24-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:17,603 INFO 1059938 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\14\25-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:17,853 INFO 1060188 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\14\26-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:18,103 INFO 1060437 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\15\27-1567511084619747621015.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:18,329 INFO 1060664 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\15\28-1567511140760-675832870.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:18,558 INFO 1060893 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\15\29-1567511153825-724248658.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:18,791 INFO 1061126 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\15\30-1567511174255-1767102837.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:19,048 INFO 1061383 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\15\31-1567511189523575903278.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:19,276 INFO 1061611 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\15\32-15675112037341992042327.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:19,546 INFO 1061880 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\15\33-1567511217930-1323699193.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:19,785 INFO 1062120 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\15\34-1567511244339-613946647.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:20,279 INFO 1062614 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\17\35-1567595819899-97900976.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:20,558 INFO 1062892 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\17\36-1567595834849167372266.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:20,804 INFO 1063138 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\17\37-1567595845573-91395054.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:21,025 INFO 1063359 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\17\38-1567595856591-1472815302.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:21,245 INFO 1063580 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\17\39-1567595866212192423103.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:21,473 INFO 1063807 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\17\40-1567595881215-159408335.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:21,712 INFO 1064046 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\17\41-1567595899232-1539044569.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:22,407 INFO 1064741 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\20\42-IMG_20190904_132356.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:22,635 INFO 1064969 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\20\43-IMG_20190904_132353.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:22,880 INFO 1065214 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\20\44-IMG_20190904_132351.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:23,195 INFO 1065529 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\20\45-IMG_20190904_132346.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:23,483 INFO 1065817 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\20\46-IMG_20190904_132343.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:23,715 INFO 1066049 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\20\47-IMG_20190904_132341.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:23,941 INFO 1066275 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\20\48-IMG_20190904_132335.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:24,170 INFO 1066504 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\20\49-IMG_20190904_132333.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:24,407 INFO 1066742 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\20\50-IMG_20190904_132329.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:24,633 INFO 1066968 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\20\51-IMG_20190904_132324.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:24,896 INFO 1067230 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\20\52-IMG_20190904_132319.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:25,135 INFO 1067470 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\20\53-IMG_20190904_132314.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:25,491 INFO 1067826 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\20\54-IMG_20190904_132310.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:25,940 INFO 1068275 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\22\55-15676048859503264835981161078172.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:26,173 INFO 1068507 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\22\56-15676048985163347121120453181693.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:26,456 INFO 1068790 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\22\57-15676049084612085470840392646100.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:26,695 INFO 1069030 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\22\58-15676049188858213413352129661655.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:26,974 INFO 1069308 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\22\59-15676049286262294034158914174117.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:27,238 INFO 1069572 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\22\60-15676049381888636646943881767338.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:27,511 INFO 1069845 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\22\61-15676049517594492000861200895228.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:27,780 INFO 1070114 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\22\62-1567604964529162111579877449219.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:28,154 INFO 1070489 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\22\63-15676049727247236774967717747609.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:28,374 INFO 1070709 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\22\64-15676049999108183446028356453660.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:28,595 INFO 1070929 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\23\65-1567604953549555330300.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:28,814 INFO 1071149 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\23\66-1567604976578-1654955031.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:29,046 INFO 1071381 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\23\67-1567604997734-1378876433.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:29,321 INFO 1071656 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\23\68-15676050165471778504991.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:29,646 INFO 1071980 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\23\69-1567605032874-712076056.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:29,870 INFO 1072204 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\23\70-1567605052887431454691.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:30,234 INFO 1072568 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\24\71-1567605487140-1403135843.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:30,509 INFO 1072843 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\24\72-15676055061551676715560.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:30,742 INFO 1073077 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\24\73-1567605521531-1060106568.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:31,094 INFO 1073429 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\24\74-15676055516191254134516.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:31,338 INFO 1073672 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\24\75-1567605568466-1796921924.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:31,557 INFO 1073892 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\24\76-1567605586767-688698492.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:31,881 INFO 1074215 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\24\77-1567605602290-1097226955.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:32,213 INFO 1074548 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\24\78-15676056197162024239946.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:32,449 INFO 1074784 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\24\79-1567605635649-1075011780.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:32,690 INFO 1075024 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\24\80-1567605672232-85468026.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:32,934 INFO 1075269 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\24\81-1567605691599348669893.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:33,210 INFO 1075545 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\24\82-1567605706609494592439.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:33,440 INFO 1075774 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\24\83-15676057230952114727220.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:33,666 INFO 1076001 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\24\84-1567605740176164192846.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:33,930 INFO 1076265 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\24\85-15676057558991302980150.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:34,171 INFO 1076505 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\24\86-1567605779079-387164507.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:34,405 INFO 1076740 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\24\87-1567605797763-2055321394.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:34,643 INFO 1076978 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\24\88-1567605813379-1100271826.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:34,917 INFO 1077252 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\24\89-15676058289811117683374.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:35,171 INFO 1077505 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\24\90-1567605846873488927983.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:35,413 INFO 1077747 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\24\91-156760586123040995528.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:35,677 INFO 1078011 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\24\92-1567605874525-1518513875.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:35,902 INFO 1078236 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\25\93-15676077157641960626845796111462.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:36,119 INFO 1078454 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\25\94-15676077299193170326268999344519.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:36,399 INFO 1078734 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\25\95-15676077418027269913525925468535.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:36,643 INFO 1078978 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\25\96-15676077547615003715181143596473.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:36,868 INFO 1079202 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\25\97-15676077655972616049942130979102.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:37,090 INFO 1079425 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\25\98-15676077757023569544159428769413.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:37,313 INFO 1079648 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\25\99-15676077858338074088872830829972.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:37,535 INFO 1079870 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\25\100-15676077961412483101763477500378.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:37,751 INFO 1080086 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\25\101-15676078054614889778500682307949.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:38,490 INFO 1080825 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\25\102-15676078221506442638848198130753.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:38,742 INFO 1081076 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\25\103-15676078342037109541952237450429.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:38,965 INFO 1081299 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\25\104-15676078470915881237899757967989.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:39,184 INFO 1081519 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\25\105-1567607860581244916926460883119.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:39,420 INFO 1081755 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\25\106-15676079109296207872341733444571.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:40,004 INFO 1082338 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\25\107-15676079595618772709765725226496.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:40,221 INFO 1082556 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\25\108-15676079712993347696677737967064.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:40,453 INFO 1082787 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\25\109-15676079813713165074483900945534.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:40,671 INFO 1083005 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\25\110-15676079908893185817150505854654.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:40,930 INFO 1083265 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\25\111-15676080029933471736497696750437.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:41,157 INFO 1083492 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\25\112-15676080259859105993657417669053.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:41,395 INFO 1083729 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\25\113-15676080353206067800627914547261.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:41,620 INFO 1083955 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\25\114-15676080454691223284089988512871.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:44,358 INFO 1086692 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\36\115-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:44,583 INFO 1086917 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\36\116-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:44,808 INFO 1087143 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\37\117-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:45,732 INFO 1088066 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\40\118-2019-09-05 09.34.01.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:46,180 INFO 1088514 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\42\119-photo_series_20190905113258.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:46,551 INFO 1088886 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\42\120-photo_series_20190905113313.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:46,800 INFO 1089135 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\42\121-photo_series_20190905113328.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:47,021 INFO 1089355 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\42\122-photo_series_20190905113345.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:47,271 INFO 1089605 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\42\123-photo_series_20190905113400.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:47,542 INFO 1089876 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\42\124-photo_series_20190905113419.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:47,781 INFO 1090116 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\42\125-photo_series_20190905113434.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:48,004 INFO 1090339 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\42\126-photo_series_20190905113449.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:48,275 INFO 1090610 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\42\127-photo_series_20190905113536.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:48,494 INFO 1090828 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\42\128-photo_series_20190905113549.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:49,036 INFO 1091370 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\44\129-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:49,507 INFO 1091842 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\46\130-photo_series_20190905114730.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:49,807 INFO 1092141 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\46\131-photo_series_20190905114745.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:50,048 INFO 1092383 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\46\132-photo_series_20190905114759.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:50,294 INFO 1092629 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\46\133-photo_series_20190905114813.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:50,742 INFO 1093077 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\48\134-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:50,967 INFO 1093302 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\48\135-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:51,195 INFO 1093530 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\48\136-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:51,438 INFO 1093772 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\49\137-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:51,722 INFO 1094056 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\49\138-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:51,951 INFO 1094285 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\49\139-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:52,180 INFO 1094514 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\49\140-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:52,419 INFO 1094753 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\49\141-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:52,679 INFO 1095013 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\49\142-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:52,902 INFO 1095236 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\49\143-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:53,227 INFO 1095562 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\50\144-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:53,447 INFO 1095781 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\50\145-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:53,675 INFO 1096009 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\50\146-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:53,903 INFO 1096238 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\50\147-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:54,147 INFO 1096481 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\50\148-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:54,384 INFO 1096718 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\50\149-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:55,313 INFO 1097647 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\54\150-43FFE382-E248-4E25-B69F-5BD39710B234.jpeg already exists. Not downloading again!
+
+2019-10-22 13:18:55,535 INFO 1097870 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\54\151-164CDEC7-1127-43E7-A81D-AB90024F4132.jpeg already exists. Not downloading again!
+
+2019-10-22 13:18:55,767 INFO 1098101 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\54\152-C1617A0E-412B-42BC-B27D-CC4089C28646.jpeg already exists. Not downloading again!
+
+2019-10-22 13:18:55,991 INFO 1098325 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\54\153-0D11A501-0660-4252-9AE8-BE48084BA1E6.jpeg already exists. Not downloading again!
+
+2019-10-22 13:18:56,662 INFO 1098997 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\57\154-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:57,541 INFO 1099875 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\60\155-IMG_6138.JPG already exists. Not downloading again!
+
+2019-10-22 13:18:57,791 INFO 1100125 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\60\156-IMG_6153.JPG already exists. Not downloading again!
+
+2019-10-22 13:18:58,042 INFO 1100376 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\60\157-IMG_7445.JPG already exists. Not downloading again!
+
+2019-10-22 13:18:58,263 INFO 1100597 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\60\158-IMG_7443.JPG already exists. Not downloading again!
+
+2019-10-22 13:18:58,505 INFO 1100840 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\60\159-IMG_6124.JPG already exists. Not downloading again!
+
+2019-10-22 13:18:58,742 INFO 1101077 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\60\160-IMG_6128.JPG already exists. Not downloading again!
+
+2019-10-22 13:18:58,972 INFO 1101306 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\60\161-IMG_6130.JPG already exists. Not downloading again!
+
+2019-10-22 13:18:59,435 INFO 1101769 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\62\162-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:59,697 INFO 1102031 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\62\163-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:18:59,925 INFO 1102260 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\62\164-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:19:00,137 INFO 1102472 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 226 
+File ../ScriptDownloads_EN\\0-loop\\62\165-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:19:00,585 INFO 1102919 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 248 
+40 of these features do not contain attachments
+
+2019-10-22 13:19:00,600 INFO 1102934 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 252 
+Summary: 0 new files have been downloaded totalling 0.0MB in size
+
+2019-10-22 13:19:00,610 INFO 1102945 
+<ipython-input-15-3f91d3859ccf> <ipython-input-15-3f91d3859ccf> <module> 253 
+Summary: 214 attachments already existed so were not downloaded again
+
+2019-10-22 13:57:06,482 INFO 3388816 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 77 
+Script Starting at 2019-10-22 13:57:06.482574
+
+2019-10-22 13:57:13,134 INFO 3395468 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 90 
+Iterating through layers in Feature Layer "service_d5a26ba7fee8434dafe9403fd67ad059"
+
+2019-10-22 13:57:16,637 INFO 3398971 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 112 
+Time: 2019-10-22 13:57:16.637271
+
+2019-10-22 13:57:16,648 INFO 3398982 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 113 
+Currently looping through feature attachments in layer 1 of 1: storing in folder named "0-surveyPoint"
+
+2019-10-22 13:57:16,656 INFO 3398990 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 114 
+There are 64 features to iterate in this layer
+
+2019-10-22 13:57:16,964 INFO 3399298 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\1\1-15663871483551841638118.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:17,234 INFO 3399568 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\2\2-389989CF-7C6A-4A55-BE0A-DAA6B01B283D.jpeg already exists. Not downloading again!
+
+2019-10-22 13:57:17,463 INFO 3399798 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\3\3-CDCC7C75-8FA9-40E1-980B-BC7ADB4FF552.jpeg already exists. Not downloading again!
+
+2019-10-22 13:57:17,710 INFO 3400045 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\4\4-C134FE5F-C400-4E95-BC26-8C932A394B07.jpeg already exists. Not downloading again!
+
+2019-10-22 13:57:17,964 INFO 3400299 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\5\5-1566917171038-778181784.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:18,281 INFO 3400616 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\6\6-15670735120811253738632.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:18,649 INFO 3400983 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\7\7-15670737967121013087840.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:19,417 INFO 3401752 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\8\8-1567074463471-1840186848.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:20,077 INFO 3402411 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\9\9-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:20,568 INFO 3402902 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\10\10-9F5023F4-5323-4A02-A501-D022DBC48DE1.jpeg already exists. Not downloading again!
+
+2019-10-22 13:57:20,843 INFO 3403178 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\11\11-B06C217F-12CB-447C-9B80-63AEB96471F9.jpeg already exists. Not downloading again!
+
+2019-10-22 13:57:21,087 INFO 3403421 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\12\12-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:21,356 INFO 3403690 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\13\13-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:21,592 INFO 3403927 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\14\14-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:22,226 INFO 3404560 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\16\15-15675904521585512437494732596818.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:22,468 INFO 3404802 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\17\16-15675957963361719209467.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:22,693 INFO 3405028 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\18\17-1567595964110547868615.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:23,010 INFO 3405344 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\19\18-15675959091546381191343432412648.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:23,466 INFO 3405800 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\21\19-15675967569257117009545662753637.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:23,730 INFO 3406064 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\22\20-1567604871729573560134884470007.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:23,965 INFO 3406299 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\23\21-1567604903313-248784947.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:24,204 INFO 3406539 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\24\22-1567605253542-254695870.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:24,466 INFO 3406800 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\25\23-15676077000083489751647921184582.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:24,997 INFO 3407331 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\27\24-32C75531-4EDA-4D06-A480-BA9A3AC1EE16.jpeg already exists. Not downloading again!
+
+2019-10-22 13:57:26,612 INFO 3408946 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\34\25-15676757983253103429169208362161.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:26,841 INFO 3409175 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\35\26-20190905_093049.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:27,195 INFO 3409529 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\36\27-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:27,708 INFO 3410042 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\37\28-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:28,336 INFO 3410670 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\38\29-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:28,714 INFO 3411048 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\39\30-15676759741109131122420007111107.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:28,944 INFO 3411279 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\40\31-2019-09-05 09.33.39.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:29,891 INFO 3412225 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\41\32-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:30,509 INFO 3412843 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\43\33-15676766556524138064104028640527.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:31,068 INFO 3413402 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\45\34-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:32,687 INFO 3415021 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\47\35-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:32,912 INFO 3415247 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\48\36-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:33,192 INFO 3415526 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\49\37-image.jpg already exists. Not downloading again!
+
+2019-10-22 13:57:33,813 INFO 3416147 
+<ipython-input-16-40feefe3192f> <ipython-input-16-40feefe3192f> <module> 146 
+File ../ScriptDownloads_EN\\0-surveyPoint\\51\38-15676773516057671787330620953743.jpg already exists. Not downloading again!
+
